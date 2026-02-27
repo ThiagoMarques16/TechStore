@@ -1,0 +1,961 @@
+﻿id_venda,data_venda,cliente,cidade,produto,categoria,quantidade,preco_unitario,forma_pagamento,valor_total,ano,mes
+1,2024-11-23,Cliente_39,Salvador,Headset Gamer,Acessórios,2,763.0,Débito,1526.0,2024,Novembro
+2,2024-02-27,Cliente_79,Goiânia,Notebook Lenovo,Notebooks,1,3679.0,Pix,3679.0,2024,Fevereiro
+3,2024-01-13,Cliente_177,Salvador,"Monitor 27""",Monitores,1,1759.0,Boleto,1759.0,2024,Janeiro
+4,2024-05-20,Cliente_127,Porto Alegre,Mouse Gamer,Acessórios,5,652.0,Crédito,3260.0,2024,Maio
+5,2024-05-05,Cliente_189,Fortaleza,Impressora HP,Periféricos,1,1284.0,Pix,1284.0,2024,Maio
+6,2024-04-24,Cliente_173,Goiânia,Notebook Dell,Notebooks,1,3937.0,Crédito,3937.0,2024,Abril
+7,2024-03-12,Cliente_196,Belo Horizonte,Mouse Gamer,Acessórios,5,141.0,Boleto,705.0,2024,Março
+8,2024-02-22,Cliente_47,Goiânia,Headset Gamer,Acessórios,4,384.0,Boleto,1536.0,2024,Fevereiro
+9,2024-12-12,Cliente_90,Recife,"Monitor 27""",Monitores,1,1762.0,Não informado,1762.0,2024,Dezembro
+10,2024-10-06,Cliente_85,Não informado,Teclado Mecânico,Acessórios,1,264.0,Boleto,264.0,2024,Outubro
+11,2024-02-14,Cliente_10,Porto Alegre,Mouse Gamer,Acessórios,4,663.0,Crédito,2652.0,2024,Fevereiro
+12,2024-10-29,Cliente_30,Recife,Teclado Mecânico,Acessórios,3,431.0,Crédito,1293.0,2024,Outubro
+13,2024-08-04,Cliente_14,Curitiba,Headset Gamer,Acessórios,4,523.0,Pix,2092.0,2024,Agosto
+15,2024-01-16,Cliente_74,Porto Alegre,Mouse Gamer,Acessórios,5,234.0,Boleto,1170.0,2024,Janeiro
+16,2024-02-17,Cliente_162,Goiânia,Notebook Lenovo,Notebooks,1,6986.0,Débito,6986.0,2024,Fevereiro
+17,2024-04-21,Cliente_4,Brasília,iPhone 14,Celulares,3,4256.0,Boleto,12768.0,2024,Abril
+18,2024-04-29,Cliente_30,Porto Alegre,Notebook Lenovo,Notebooks,2,6446.0,Crédito,12892.0,2024,Abril
+19,2024-09-15,Cliente_75,Brasília,iPhone 14,Celulares,4,4935.0,Pix,19740.0,2024,Setembro
+20,2024-11-04,Cliente_63,Porto Alegre,"Monitor 24""",Monitores,4,1767.0,Débito,7068.0,2024,Novembro
+21,2024-01-14,Cliente_192,Belo Horizonte,"Monitor 24""",Monitores,2,1840.0,Crédito,3680.0,2024,Janeiro
+22,2024-10-14,Cliente_130,Salvador,Mouse Gamer,Acessórios,4,448.0,Crédito,1792.0,2024,Outubro
+23,2024-04-11,Cliente_149,Porto Alegre,Mouse Gamer,Acessórios,3,701.0,Débito,2103.0,2024,Abril
+24,2024-11-28,Cliente_89,Fortaleza,"Monitor 27""",Monitores,5,1791.0,Boleto,8955.0,2024,Novembro
+25,2024-12-25,Cliente_179,Curitiba,"Monitor 27""",Monitores,3,1186.0,Boleto,3558.0,2024,Dezembro
+27,2024-08-02,Cliente_10,Belo Horizonte,"Monitor 24""",Monitores,2,1814.0,Não informado,3628.0,2024,Agosto
+28,2024-04-22,Cliente_135,Porto Alegre,Notebook Lenovo,Notebooks,4,3408.0,Crédito,13632.0,2024,Abril
+29,2024-08-17,Cliente_40,Rio de Janeiro,iPhone 14,Celulares,4,4681.0,Boleto,18724.0,2024,Agosto
+30,2024-10-28,Cliente_178,Recife,Mouse Gamer,Acessórios,3,738.0,Crédito,2214.0,2024,Outubro
+31,2024-05-22,Cliente_82,Porto Alegre,Teclado Mecânico,Acessórios,5,489.0,Crédito,2445.0,2024,Maio
+32,2024-01-04,Cliente_162,Salvador,Impressora HP,Periféricos,1,880.0,Débito,880.0,2024,Janeiro
+33,2024-03-22,Cliente_195,Rio de Janeiro,Notebook Lenovo,Notebooks,4,3403.0,Boleto,13612.0,2024,Março
+34,2024-12-23,Cliente_12,Fortaleza,iPhone 14,Celulares,3,2118.0,Crédito,6354.0,2024,Dezembro
+35,2024-08-04,Cliente_111,Belo Horizonte,Mouse Gamer,Acessórios,3,483.0,Débito,1449.0,2024,Agosto
+36,2024-06-23,Cliente_175,Belo Horizonte,Headset Gamer,Acessórios,4,679.0,Débito,2716.0,2024,Junho
+37,2024-05-22,Cliente_98,Goiânia,iPhone 14,Celulares,1,4496.0,Débito,4496.0,2024,Maio
+38,2024-03-20,Cliente_60,Porto Alegre,"Monitor 27""",Monitores,5,1093.0,Pix,5465.0,2024,Março
+39,2024-04-20,Cliente_120,Salvador,"Monitor 27""",Monitores,3,1436.5,Débito,4309.5,2024,Abril
+40,2024-06-21,Cliente_89,Goiânia,Notebook Lenovo,Notebooks,4,6871.0,Não informado,27484.0,2024,Junho
+41,2024-02-22,Cliente_78,Curitiba,"Monitor 24""",Monitores,3,1735.0,Boleto,5205.0,2024,Fevereiro
+43,2024-07-13,Cliente_6,Recife,Impressora HP,Periféricos,3,1004.0,Pix,3012.0,2024,Julho
+44,2024-02-19,Cliente_176,São Paulo,Notebook Dell,Notebooks,5,6543.0,Boleto,32715.0,2024,Fevereiro
+45,2024-07-02,Cliente_91,Curitiba,Mouse Gamer,Acessórios,2,721.0,Débito,1442.0,2024,Julho
+46,2024-06-25,Cliente_161,Rio de Janeiro,Impressora HP,Periféricos,3,680.0,Crédito,2040.0,2024,Junho
+47,2024-11-05,Cliente_149,Fortaleza,Mouse Gamer,Acessórios,4,134.0,Débito,536.0,2024,Novembro
+48,2024-05-15,Cliente_192,Não informado,Notebook Lenovo,Notebooks,3,4338.0,Débito,13014.0,2024,Maio
+49,2024-01-23,Cliente_94,Brasília,Samsung Galaxy S23,Celulares,2,4209.0,Pix,8418.0,2024,Janeiro
+50,2024-08-23,Cliente_76,Fortaleza,iPhone 14,Celulares,3,3973.0,Crédito,11919.0,2024,Agosto
+52,2024-03-04,Cliente_102,São Paulo,Headset Gamer,Acessórios,3,192.0,Pix,576.0,2024,Março
+54,2024-02-10,Cliente_60,Porto Alegre,Teclado Mecânico,Acessórios,1,791.0,Crédito,791.0,2024,Fevereiro
+55,2024-10-09,Cliente_157,Curitiba,Impressora HP,Periféricos,5,1071.0,Crédito,5355.0,2024,Outubro
+56,2024-05-30,Cliente_30,Belo Horizonte,"Monitor 27""",Monitores,3,1636.0,Crédito,4908.0,2024,Maio
+57,2024-11-17,Cliente_30,Não informado,Notebook Dell,Notebooks,3,5017.0,Débito,15051.0,2024,Novembro
+58,2024-11-12,Cliente_117,Fortaleza,Headset Gamer,Acessórios,2,497.0,Boleto,994.0,2024,Novembro
+59,2024-07-04,Cliente_168,Rio de Janeiro,Impressora HP,Periféricos,2,1249.0,Boleto,2498.0,2024,Julho
+60,2024-10-22,Cliente_9,Fortaleza,Impressora HP,Periféricos,4,972.0,Débito,3888.0,2024,Outubro
+61,2024-04-08,Cliente_93,Rio de Janeiro,"Monitor 27""",Monitores,4,1283.0,Pix,5132.0,2024,Abril
+62,2024-12-26,Cliente_102,Salvador,Headset Gamer,Acessórios,3,162.0,Débito,486.0,2024,Dezembro
+63,2024-02-05,Cliente_170,Curitiba,Notebook Lenovo,Notebooks,4,3375.0,Crédito,13500.0,2024,Fevereiro
+64,2024-01-24,Cliente_33,Goiânia,Notebook Dell,Notebooks,3,3997.0,Débito,11991.0,2024,Janeiro
+65,2024-12-04,Cliente_151,Curitiba,Notebook Lenovo,Notebooks,5,3848.0,Débito,19240.0,2024,Dezembro
+66,2024-04-26,Cliente_1,Salvador,Teclado Mecânico,Acessórios,2,710.0,Débito,1420.0,2024,Abril
+67,2024-05-28,Cliente_45,Não informado,iPhone 14,Celulares,5,3026.0,Crédito,15130.0,2024,Maio
+68,2024-02-10,Cliente_61,Goiânia,iPhone 14,Celulares,1,3467.0,Pix,3467.0,2024,Fevereiro
+69,2024-04-29,Cliente_14,Belo Horizonte,Notebook Dell,Notebooks,2,4086.0,Boleto,8172.0,2024,Abril
+70,2024-02-21,Cliente_122,Porto Alegre,Headset Gamer,Acessórios,1,165.0,Pix,165.0,2024,Fevereiro
+71,2024-07-13,Cliente_116,Não informado,Headset Gamer,Acessórios,5,484.5,Débito,2422.5,2024,Julho
+72,2024-05-22,Cliente_78,Porto Alegre,Impressora HP,Periféricos,1,1467.0,Crédito,1467.0,2024,Maio
+73,2024-08-20,Cliente_103,Recife,Notebook Dell,Notebooks,4,6470.0,Crédito,25880.0,2024,Agosto
+74,2024-11-21,Cliente_21,Fortaleza,"Monitor 27""",Monitores,4,950.0,Débito,3800.0,2024,Novembro
+75,2024-07-05,Cliente_160,Goiânia,Notebook Lenovo,Notebooks,2,4126.0,Pix,8252.0,2024,Julho
+76,2024-03-24,Cliente_76,Porto Alegre,"Monitor 24""",Monitores,5,1886.0,Boleto,9430.0,2024,Março
+77,2024-07-08,Não informado,Brasília,Notebook Lenovo,Notebooks,1,6493.0,Débito,6493.0,2024,Julho
+78,2024-06-30,Cliente_106,Fortaleza,"Monitor 24""",Monitores,4,1267.0,Boleto,5068.0,2024,Junho
+79,2024-04-17,Cliente_81,Recife,"Monitor 24""",Monitores,4,994.0,Pix,3976.0,2024,Abril
+80,2024-12-09,Cliente_176,Porto Alegre,Mouse Gamer,Acessórios,3,256.0,Crédito,768.0,2024,Dezembro
+81,2024-05-16,Cliente_111,Rio de Janeiro,Notebook Lenovo,Notebooks,1,3381.0,Pix,3381.0,2024,Maio
+82,2024-12-25,Cliente_151,Brasília,iPhone 14,Celulares,5,2245.0,Pix,11225.0,2024,Dezembro
+83,2024-12-15,Cliente_171,Recife,Notebook Lenovo,Notebooks,4,4448.0,Crédito,17792.0,2024,Dezembro
+84,2024-11-27,Cliente_91,Rio de Janeiro,Mouse Gamer,Acessórios,5,419.0,Débito,2095.0,2024,Novembro
+85,2024-02-06,Cliente_28,Fortaleza,iPhone 14,Celulares,4,2918.0,Pix,11672.0,2024,Fevereiro
+86,2024-11-07,Cliente_58,Recife,Notebook Lenovo,Notebooks,3,5351.0,Crédito,16053.0,2024,Novembro
+87,2024-11-21,Cliente_47,Salvador,Impressora HP,Periféricos,3,459.0,Pix,1377.0,2024,Novembro
+88,2024-03-28,Cliente_47,Belo Horizonte,Teclado Mecânico,Acessórios,3,106.0,Boleto,318.0,2024,Março
+89,2024-09-30,Cliente_163,São Paulo,Notebook Lenovo,Notebooks,2,6035.0,Crédito,12070.0,2024,Setembro
+90,2024-05-05,Cliente_108,Porto Alegre,Headset Gamer,Acessórios,2,485.0,Pix,970.0,2024,Maio
+91,2024-03-24,Cliente_185,Não informado,iPhone 14,Celulares,3,3276.0,Crédito,9828.0,2024,Março
+92,2024-08-24,Cliente_194,Goiânia,Notebook Dell,Notebooks,2,3644.0,Crédito,7288.0,2024,Agosto
+93,2024-07-13,Cliente_170,Recife,Notebook Lenovo,Notebooks,3,4814.0,Boleto,14442.0,2024,Julho
+94,2024-05-18,Cliente_70,Não informado,Impressora HP,Periféricos,4,1248.0,Crédito,4992.0,2024,Maio
+95,2024-11-23,Cliente_73,Goiânia,Teclado Mecânico,Acessórios,4,518.0,Boleto,2072.0,2024,Novembro
+96,2024-12-18,Cliente_57,Recife,Headset Gamer,Acessórios,3,146.0,Crédito,438.0,2024,Dezembro
+97,2024-10-12,Cliente_55,Belo Horizonte,Notebook Dell,Notebooks,2,4234.0,Pix,8468.0,2024,Outubro
+98,2024-04-22,Cliente_2,Porto Alegre,Mouse Gamer,Acessórios,3,449.5,Boleto,1348.5,2024,Abril
+99,2024-12-16,Cliente_137,Curitiba,iPhone 14,Celulares,2,3557.0,Pix,7114.0,2024,Dezembro
+100,2024-06-15,Cliente_190,São Paulo,Notebook Lenovo,Notebooks,4,6529.0,Boleto,26116.0,2024,Junho
+101,2024-01-29,Cliente_20,Não informado,Notebook Dell,Notebooks,4,6773.0,Boleto,27092.0,2024,Janeiro
+102,2024-04-27,Não informado,Rio de Janeiro,Impressora HP,Periféricos,4,1255.0,Boleto,5020.0,2024,Abril
+103,2024-01-17,Cliente_159,Porto Alegre,Notebook Dell,Notebooks,3,3703.0,Pix,11109.0,2024,Janeiro
+104,2024-06-10,Cliente_28,Curitiba,Notebook Lenovo,Notebooks,4,6459.0,Boleto,25836.0,2024,Junho
+105,2024-07-24,Cliente_21,Recife,Impressora HP,Periféricos,4,1473.0,Pix,5892.0,2024,Julho
+106,2024-05-17,Cliente_200,Belo Horizonte,Teclado Mecânico,Acessórios,2,518.0,Crédito,1036.0,2024,Maio
+107,2024-02-03,Cliente_131,Curitiba,Headset Gamer,Acessórios,1,643.0,Pix,643.0,2024,Fevereiro
+108,2024-04-18,Cliente_27,Belo Horizonte,Teclado Mecânico,Acessórios,2,341.0,Pix,682.0,2024,Abril
+109,2024-10-17,Cliente_40,Rio de Janeiro,Samsung Galaxy S23,Celulares,2,4467.0,Débito,8934.0,2024,Outubro
+110,2024-06-10,Cliente_195,Goiânia,"Monitor 27""",Monitores,4,1954.0,Boleto,7816.0,2024,Junho
+111,2024-04-18,Cliente_161,Fortaleza,Impressora HP,Periféricos,5,1061.0,Débito,5305.0,2024,Abril
+112,2024-12-01,Cliente_114,Salvador,"Monitor 27""",Monitores,1,1760.0,Pix,1760.0,2024,Dezembro
+113,2024-09-12,Cliente_130,Rio de Janeiro,Impressora HP,Periféricos,1,1120.0,Pix,1120.0,2024,Setembro
+114,2024-07-21,Cliente_15,Fortaleza,"Monitor 27""",Monitores,4,877.0,Pix,3508.0,2024,Julho
+115,2024-11-25,Cliente_153,Brasília,Notebook Lenovo,Notebooks,1,5519.0,Boleto,5519.0,2024,Novembro
+116,2024-08-22,Cliente_190,São Paulo,"Monitor 27""",Monitores,5,1935.0,Boleto,9675.0,2024,Agosto
+117,2024-03-14,Cliente_155,Porto Alegre,Impressora HP,Periféricos,2,1058.0,Débito,2116.0,2024,Março
+118,2024-05-15,Cliente_88,Rio de Janeiro,Notebook Dell,Notebooks,4,3423.0,Débito,13692.0,2024,Maio
+119,2024-03-12,Cliente_113,Porto Alegre,Notebook Dell,Notebooks,2,5898.0,Débito,11796.0,2024,Março
+120,2024-05-06,Cliente_100,Recife,Teclado Mecânico,Acessórios,3,389.0,Pix,1167.0,2024,Maio
+121,2024-10-14,Cliente_17,Fortaleza,Impressora HP,Periféricos,1,1085.0,Crédito,1085.0,2024,Outubro
+122,2024-10-02,Cliente_65,Goiânia,Headset Gamer,Acessórios,4,390.0,Débito,1560.0,2024,Outubro
+123,2024-05-14,Cliente_170,Belo Horizonte,Teclado Mecânico,Acessórios,1,696.0,Não informado,696.0,2024,Maio
+124,2024-10-26,Cliente_153,Rio de Janeiro,Mouse Gamer,Acessórios,4,232.0,Pix,928.0,2024,Outubro
+125,2024-08-07,Cliente_85,Belo Horizonte,Headset Gamer,Acessórios,4,758.0,Crédito,3032.0,2024,Agosto
+126,2024-10-25,Cliente_5,Fortaleza,"Monitor 24""",Monitores,5,1541.0,Pix,7705.0,2024,Outubro
+127,2024-07-23,Cliente_197,Porto Alegre,iPhone 14,Celulares,2,3399.0,Débito,6798.0,2024,Julho
+128,2024-07-04,Cliente_20,Salvador,Samsung Galaxy S23,Celulares,2,2634.0,Crédito,5268.0,2024,Julho
+129,2024-04-22,Cliente_10,Fortaleza,Headset Gamer,Acessórios,5,639.0,Débito,3195.0,2024,Abril
+130,2024-03-11,Cliente_42,Belo Horizonte,Impressora HP,Periféricos,4,715.0,Débito,2860.0,2024,Março
+131,2024-09-17,Cliente_94,Curitiba,"Monitor 27""",Monitores,1,1641.0,Não informado,1641.0,2024,Setembro
+132,2024-09-09,Cliente_60,Brasília,Impressora HP,Periféricos,3,1319.0,Débito,3957.0,2024,Setembro
+133,2024-02-16,Cliente_95,Goiânia,Mouse Gamer,Acessórios,4,298.0,Boleto,1192.0,2024,Fevereiro
+134,2024-01-25,Cliente_129,Brasília,"Monitor 27""",Monitores,3,1582.0,Boleto,4746.0,2024,Janeiro
+135,2024-02-26,Cliente_36,Salvador,iPhone 14,Celulares,2,4476.0,Crédito,8952.0,2024,Fevereiro
+136,2024-03-19,Cliente_27,Brasília,"Monitor 27""",Monitores,3,1935.0,Crédito,5805.0,2024,Março
+137,2024-11-17,Não informado,Porto Alegre,Mouse Gamer,Acessórios,1,264.0,Débito,264.0,2024,Novembro
+138,2024-03-22,Cliente_116,Fortaleza,"Monitor 24""",Monitores,1,1254.0,Crédito,1254.0,2024,Março
+139,2024-12-14,Cliente_129,Fortaleza,"Monitor 24""",Monitores,1,1611.0,Débito,1611.0,2024,Dezembro
+140,2024-08-04,Cliente_58,São Paulo,"Monitor 24""",Monitores,1,1567.0,Pix,1567.0,2024,Agosto
+141,2024-11-01,Cliente_38,Belo Horizonte,Notebook Lenovo,Notebooks,3,6241.0,Crédito,18723.0,2024,Novembro
+142,2024-02-02,Cliente_195,Porto Alegre,Mouse Gamer,Acessórios,4,242.0,Boleto,968.0,2024,Fevereiro
+143,2024-07-16,Cliente_5,Salvador,Impressora HP,Periféricos,1,562.0,Débito,562.0,2024,Julho
+144,2024-07-14,Cliente_156,Brasília,iPhone 14,Celulares,5,4978.0,Boleto,24890.0,2024,Julho
+145,2024-11-01,Cliente_78,Rio de Janeiro,Notebook Lenovo,Notebooks,3,3973.0,Crédito,11919.0,2024,Novembro
+146,2024-08-27,Cliente_160,Porto Alegre,Samsung Galaxy S23,Celulares,4,4617.0,Crédito,18468.0,2024,Agosto
+147,2024-09-27,Cliente_138,São Paulo,Notebook Lenovo,Notebooks,4,5444.0,Débito,21776.0,2024,Setembro
+148,2024-05-08,Cliente_1,Goiânia,iPhone 14,Celulares,3,3758.0,Pix,11274.0,2024,Maio
+150,2024-01-06,Cliente_130,Brasília,Notebook Lenovo,Notebooks,5,5228.0,Crédito,26140.0,2024,Janeiro
+151,2024-12-14,Cliente_163,Recife,"Monitor 24""",Monitores,4,889.0,Pix,3556.0,2024,Dezembro
+152,2024-02-28,Cliente_18,Fortaleza,Mouse Gamer,Acessórios,1,465.0,Débito,465.0,2024,Fevereiro
+153,2024-12-15,Cliente_194,Fortaleza,Notebook Lenovo,Notebooks,5,6011.0,Débito,30055.0,2024,Dezembro
+154,2024-10-01,Cliente_87,Belo Horizonte,Notebook Dell,Notebooks,3,5236.0,Boleto,15708.0,2024,Outubro
+155,2024-05-16,Cliente_17,Porto Alegre,"Monitor 27""",Monitores,2,1076.0,Crédito,2152.0,2024,Maio
+156,2024-11-24,Cliente_52,São Paulo,Mouse Gamer,Acessórios,2,144.0,Pix,288.0,2024,Novembro
+157,2024-06-23,Cliente_140,Porto Alegre,Mouse Gamer,Acessórios,5,507.0,Pix,2535.0,2024,Junho
+158,2024-02-27,Cliente_92,São Paulo,Notebook Dell,Notebooks,2,4171.0,Pix,8342.0,2024,Fevereiro
+159,2024-05-30,Cliente_112,Recife,Mouse Gamer,Acessórios,1,476.0,Boleto,476.0,2024,Maio
+160,2024-08-10,Cliente_128,Porto Alegre,"Monitor 24""",Monitores,3,1182.0,Pix,3546.0,2024,Agosto
+161,2024-03-21,Cliente_187,Recife,Headset Gamer,Acessórios,3,184.0,Crédito,552.0,2024,Março
+162,2024-08-20,Cliente_140,Salvador,"Monitor 24""",Monitores,5,1169.0,Pix,5845.0,2024,Agosto
+164,2024-05-14,Cliente_43,Porto Alegre,"Monitor 27""",Monitores,5,1672.0,Pix,8360.0,2024,Maio
+165,2024-09-13,Cliente_158,Recife,"Monitor 27""",Monitores,1,1522.0,Pix,1522.0,2024,Setembro
+166,2024-04-01,Cliente_164,Recife,Notebook Dell,Notebooks,1,5749.0,Pix,5749.0,2024,Abril
+167,2024-09-16,Cliente_37,Goiânia,Headset Gamer,Acessórios,2,131.0,Boleto,262.0,2024,Setembro
+168,2024-02-24,Cliente_61,Fortaleza,Notebook Dell,Notebooks,2,3275.0,Pix,6550.0,2024,Fevereiro
+169,2024-11-16,Cliente_155,Belo Horizonte,"Monitor 24""",Monitores,5,866.0,Boleto,4330.0,2024,Novembro
+170,2024-06-01,Cliente_196,Rio de Janeiro,Teclado Mecânico,Acessórios,3,554.0,Débito,1662.0,2024,Junho
+171,2024-11-23,Cliente_81,Salvador,Headset Gamer,Acessórios,3,507.0,Débito,1521.0,2024,Novembro
+172,2024-09-16,Cliente_48,Porto Alegre,Notebook Lenovo,Notebooks,1,6013.0,Boleto,6013.0,2024,Setembro
+173,2024-11-07,Cliente_199,Não informado,Headset Gamer,Acessórios,1,368.0,Boleto,368.0,2024,Novembro
+174,2024-04-11,Cliente_178,Porto Alegre,Samsung Galaxy S23,Celulares,5,3169.0,Débito,15845.0,2024,Abril
+175,2024-03-19,Não informado,Porto Alegre,Notebook Lenovo,Notebooks,2,6493.0,Débito,12986.0,2024,Março
+176,2024-07-10,Cliente_171,Fortaleza,"Monitor 27""",Monitores,1,1454.0,Crédito,1454.0,2024,Julho
+177,2024-03-23,Cliente_77,Belo Horizonte,Headset Gamer,Acessórios,5,397.0,Não informado,1985.0,2024,Março
+178,2024-10-03,Cliente_32,Curitiba,Teclado Mecânico,Acessórios,5,329.0,Débito,1645.0,2024,Outubro
+179,2024-09-28,Cliente_93,Brasília,Samsung Galaxy S23,Celulares,4,2107.0,Pix,8428.0,2024,Setembro
+180,2024-01-01,Cliente_157,Rio de Janeiro,"Monitor 27""",Monitores,5,1065.0,Crédito,5325.0,2024,Janeiro
+181,2024-11-02,Cliente_135,Recife,Mouse Gamer,Acessórios,4,590.0,Boleto,2360.0,2024,Novembro
+182,2024-06-14,Cliente_82,Rio de Janeiro,Impressora HP,Periféricos,1,656.0,Boleto,656.0,2024,Junho
+183,2024-09-07,Cliente_33,Brasília,"Monitor 27""",Monitores,5,1505.0,Débito,7525.0,2024,Setembro
+184,2024-01-10,Cliente_15,Rio de Janeiro,iPhone 14,Celulares,4,4059.0,Débito,16236.0,2024,Janeiro
+185,2024-02-27,Cliente_83,Curitiba,Mouse Gamer,Acessórios,2,265.0,Pix,530.0,2024,Fevereiro
+186,2024-07-04,Cliente_65,Curitiba,Headset Gamer,Acessórios,3,180.0,Pix,540.0,2024,Julho
+187,2024-06-06,Cliente_137,Rio de Janeiro,iPhone 14,Celulares,3,4516.0,Débito,13548.0,2024,Junho
+188,2024-05-02,Cliente_44,Goiânia,Impressora HP,Periféricos,5,715.0,Pix,3575.0,2024,Maio
+189,2024-01-30,Cliente_21,São Paulo,Impressora HP,Periféricos,1,458.0,Pix,458.0,2024,Janeiro
+190,2024-05-03,Cliente_159,São Paulo,Samsung Galaxy S23,Celulares,5,3706.0,Boleto,18530.0,2024,Maio
+191,2024-10-17,Cliente_78,Porto Alegre,Headset Gamer,Acessórios,3,757.0,Débito,2271.0,2024,Outubro
+192,2024-02-10,Cliente_19,São Paulo,"Monitor 24""",Monitores,3,1728.0,Débito,5184.0,2024,Fevereiro
+193,2024-02-13,Cliente_119,Curitiba,"Monitor 27""",Monitores,4,1791.0,Pix,7164.0,2024,Fevereiro
+194,2024-09-05,Cliente_184,Fortaleza,Impressora HP,Periféricos,2,1040.0,Pix,2080.0,2024,Setembro
+195,2024-02-05,Cliente_132,Brasília,"Monitor 24""",Monitores,2,1558.0,Crédito,3116.0,2024,Fevereiro
+196,2024-09-29,Cliente_32,Salvador,Teclado Mecânico,Acessórios,2,577.0,Boleto,1154.0,2024,Setembro
+197,2024-03-05,Cliente_13,Salvador,Samsung Galaxy S23,Celulares,2,3660.0,Boleto,7320.0,2024,Março
+198,2024-03-06,Cliente_41,Fortaleza,Impressora HP,Periféricos,4,908.0,Pix,3632.0,2024,Março
+199,2024-12-03,Cliente_132,Porto Alegre,Samsung Galaxy S23,Celulares,2,4040.0,Boleto,8080.0,2024,Dezembro
+200,2024-08-31,Cliente_24,Recife,Mouse Gamer,Acessórios,4,123.0,Boleto,492.0,2024,Agosto
+201,2024-10-08,Cliente_91,São Paulo,Samsung Galaxy S23,Celulares,2,4389.0,Crédito,8778.0,2024,Outubro
+202,2024-03-25,Cliente_168,Porto Alegre,Mouse Gamer,Acessórios,4,711.0,Pix,2844.0,2024,Março
+203,2024-05-15,Cliente_111,Belo Horizonte,Headset Gamer,Acessórios,1,210.0,Pix,210.0,2024,Maio
+204,2024-09-27,Cliente_12,Recife,Teclado Mecânico,Acessórios,4,474.0,Crédito,1896.0,2024,Setembro
+205,2024-11-06,Cliente_93,Brasília,Impressora HP,Periféricos,5,798.0,Pix,3990.0,2024,Novembro
+206,2024-08-04,Cliente_116,Brasília,Notebook Lenovo,Notebooks,4,5158.5,Pix,20634.0,2024,Agosto
+207,2024-04-18,Cliente_33,Rio de Janeiro,Impressora HP,Periféricos,5,643.0,Não informado,3215.0,2024,Abril
+208,2024-10-03,Cliente_94,Belo Horizonte,Teclado Mecânico,Acessórios,3,671.0,Débito,2013.0,2024,Outubro
+209,2024-12-19,Cliente_129,São Paulo,Impressora HP,Periféricos,5,1222.0,Crédito,6110.0,2024,Dezembro
+210,2024-04-12,Cliente_86,Porto Alegre,Notebook Dell,Notebooks,2,5922.0,Não informado,11844.0,2024,Abril
+211,2024-06-08,Não informado,Fortaleza,iPhone 14,Celulares,5,4111.0,Pix,20555.0,2024,Junho
+212,2024-07-23,Cliente_190,Salvador,iPhone 14,Celulares,4,3589.0,Pix,14356.0,2024,Julho
+213,2024-12-09,Cliente_126,Goiânia,Headset Gamer,Acessórios,5,645.0,Pix,3225.0,2024,Dezembro
+214,2024-11-28,Cliente_85,Rio de Janeiro,"Monitor 27""",Monitores,1,1554.0,Boleto,1554.0,2024,Novembro
+215,2024-07-10,Cliente_153,Porto Alegre,Impressora HP,Periféricos,3,454.0,Pix,1362.0,2024,Julho
+216,2024-08-12,Cliente_185,São Paulo,Impressora HP,Periféricos,5,866.0,Boleto,4330.0,2024,Agosto
+217,2024-09-21,Cliente_185,Goiânia,iPhone 14,Celulares,5,4576.0,Boleto,22880.0,2024,Setembro
+218,2024-08-19,Cliente_147,Rio de Janeiro,iPhone 14,Celulares,2,2129.0,Débito,4258.0,2024,Agosto
+219,2024-03-02,Cliente_108,Belo Horizonte,Notebook Dell,Notebooks,4,4284.0,Boleto,17136.0,2024,Março
+220,2024-05-06,Cliente_199,Goiânia,Samsung Galaxy S23,Celulares,4,4055.0,Boleto,16220.0,2024,Maio
+221,2024-04-25,Cliente_54,Brasília,Notebook Dell,Notebooks,2,5124.0,Pix,10248.0,2024,Abril
+222,2024-02-02,Cliente_81,Belo Horizonte,"Monitor 27""",Monitores,5,1571.0,Boleto,7855.0,2024,Fevereiro
+223,2024-06-22,Cliente_91,Salvador,Headset Gamer,Acessórios,3,659.0,Boleto,1977.0,2024,Junho
+224,2024-01-11,Cliente_143,Salvador,Samsung Galaxy S23,Celulares,2,3660.0,Débito,7320.0,2024,Janeiro
+225,2024-10-28,Cliente_177,Porto Alegre,Mouse Gamer,Acessórios,3,312.0,Pix,936.0,2024,Outubro
+226,2024-10-10,Cliente_185,Salvador,"Monitor 27""",Monitores,3,1947.0,Pix,5841.0,2024,Outubro
+227,2024-04-27,Cliente_140,Recife,Notebook Lenovo,Notebooks,5,5771.0,Boleto,28855.0,2024,Abril
+228,2024-10-28,Cliente_11,Salvador,Teclado Mecânico,Acessórios,2,397.0,Crédito,794.0,2024,Outubro
+229,2024-04-22,Cliente_66,Porto Alegre,Teclado Mecânico,Acessórios,4,771.0,Débito,3084.0,2024,Abril
+230,2024-01-04,Cliente_144,Salvador,Samsung Galaxy S23,Celulares,5,3110.0,Débito,15550.0,2024,Janeiro
+231,2024-02-06,Cliente_151,Curitiba,Notebook Lenovo,Notebooks,5,6034.0,Débito,30170.0,2024,Fevereiro
+232,2024-12-28,Cliente_164,Curitiba,Notebook Dell,Notebooks,5,3924.0,Crédito,19620.0,2024,Dezembro
+233,2024-11-19,Cliente_184,Porto Alegre,Notebook Lenovo,Notebooks,4,4352.0,Crédito,17408.0,2024,Novembro
+234,2024-01-31,Cliente_41,Recife,iPhone 14,Celulares,1,4254.0,Boleto,4254.0,2024,Janeiro
+235,2024-04-27,Cliente_83,Salvador,"Monitor 27""",Monitores,2,1388.0,Crédito,2776.0,2024,Abril
+236,2024-02-04,Não informado,São Paulo,Notebook Lenovo,Notebooks,5,3951.0,Débito,19755.0,2024,Fevereiro
+237,2024-01-17,Cliente_102,Porto Alegre,"Monitor 24""",Monitores,2,874.0,Débito,1748.0,2024,Janeiro
+238,2024-06-18,Cliente_77,Goiânia,Mouse Gamer,Acessórios,1,109.0,Crédito,109.0,2024,Junho
+239,2024-02-06,Cliente_165,Brasília,Teclado Mecânico,Acessórios,3,565.0,Boleto,1695.0,2024,Fevereiro
+240,2024-09-20,Cliente_70,Curitiba,iPhone 14,Celulares,5,3917.0,Crédito,19585.0,2024,Setembro
+241,2024-05-01,Cliente_166,Salvador,Teclado Mecânico,Acessórios,2,569.0,Débito,1138.0,2024,Maio
+242,2024-05-22,Cliente_76,Goiânia,Notebook Dell,Notebooks,3,6238.0,Débito,18714.0,2024,Maio
+243,2024-12-08,Cliente_104,Recife,iPhone 14,Celulares,5,4616.0,Pix,23080.0,2024,Dezembro
+245,2024-04-19,Cliente_2,Salvador,"Monitor 27""",Monitores,3,1308.0,Boleto,3924.0,2024,Abril
+246,2024-10-03,Cliente_85,Salvador,Samsung Galaxy S23,Celulares,4,3093.0,Crédito,12372.0,2024,Outubro
+247,2024-03-08,Cliente_16,Rio de Janeiro,Mouse Gamer,Acessórios,3,341.0,Boleto,1023.0,2024,Março
+248,2024-10-19,Cliente_176,Brasília,Mouse Gamer,Acessórios,2,515.0,Pix,1030.0,2024,Outubro
+249,2024-10-22,Cliente_158,Curitiba,Notebook Lenovo,Notebooks,3,4505.0,Débito,13515.0,2024,Outubro
+250,2024-08-30,Cliente_117,Goiânia,iPhone 14,Celulares,4,2627.0,Pix,10508.0,2024,Agosto
+251,2024-05-04,Cliente_194,Brasília,"Monitor 24""",Monitores,5,1764.0,Débito,8820.0,2024,Maio
+252,2024-08-30,Cliente_135,Porto Alegre,Samsung Galaxy S23,Celulares,5,2335.0,Pix,11675.0,2024,Agosto
+253,2024-07-27,Cliente_16,Brasília,Notebook Lenovo,Notebooks,5,3459.0,Débito,17295.0,2024,Julho
+254,2024-04-07,Cliente_43,Fortaleza,Impressora HP,Periféricos,5,706.0,Boleto,3530.0,2024,Abril
+255,2024-02-18,Cliente_150,Porto Alegre,Notebook Lenovo,Notebooks,2,5936.0,Crédito,11872.0,2024,Fevereiro
+256,2024-02-19,Cliente_117,Belo Horizonte,Headset Gamer,Acessórios,4,156.0,Boleto,624.0,2024,Fevereiro
+257,2024-12-03,Cliente_144,Porto Alegre,"Monitor 27""",Monitores,5,918.0,Pix,4590.0,2024,Dezembro
+258,2024-08-08,Cliente_1,Curitiba,Notebook Dell,Notebooks,4,4042.0,Crédito,16168.0,2024,Agosto
+259,2024-06-30,Cliente_180,Rio de Janeiro,Notebook Dell,Notebooks,4,4411.0,Crédito,17644.0,2024,Junho
+260,2024-08-04,Cliente_74,Recife,Notebook Lenovo,Notebooks,4,3129.0,Débito,12516.0,2024,Agosto
+261,2024-07-29,Cliente_98,Porto Alegre,iPhone 14,Celulares,4,3533.0,Boleto,14132.0,2024,Julho
+262,2024-08-27,Cliente_35,Fortaleza,"Monitor 24""",Monitores,1,1904.0,Crédito,1904.0,2024,Agosto
+263,2024-01-28,Cliente_136,Belo Horizonte,iPhone 14,Celulares,5,3609.0,Débito,18045.0,2024,Janeiro
+264,2024-12-10,Cliente_119,Brasília,Notebook Dell,Notebooks,1,4222.0,Boleto,4222.0,2024,Dezembro
+265,2024-11-30,Cliente_64,Não informado,Headset Gamer,Acessórios,4,335.0,Pix,1340.0,2024,Novembro
+266,2024-11-26,Cliente_186,Rio de Janeiro,iPhone 14,Celulares,3,2772.0,Crédito,8316.0,2024,Novembro
+267,2024-02-20,Cliente_62,Curitiba,"Monitor 24""",Monitores,5,832.0,Crédito,4160.0,2024,Fevereiro
+268,2024-02-01,Cliente_115,Goiânia,Notebook Lenovo,Notebooks,5,3137.0,Crédito,15685.0,2024,Fevereiro
+269,2024-07-25,Cliente_113,Curitiba,Samsung Galaxy S23,Celulares,1,3647.0,Débito,3647.0,2024,Julho
+270,2024-06-22,Cliente_75,Curitiba,Notebook Dell,Notebooks,2,5063.0,Pix,10126.0,2024,Junho
+271,2024-02-25,Cliente_61,Salvador,Impressora HP,Periféricos,5,1056.0,Débito,5280.0,2024,Fevereiro
+272,2024-05-07,Cliente_77,Salvador,Headset Gamer,Acessórios,2,523.0,Crédito,1046.0,2024,Maio
+273,2024-04-08,Cliente_161,Recife,Headset Gamer,Acessórios,5,279.0,Boleto,1395.0,2024,Abril
+274,2024-04-07,Cliente_165,Recife,Notebook Dell,Notebooks,3,6856.0,Pix,20568.0,2024,Abril
+275,2024-10-01,Cliente_77,Recife,"Monitor 24""",Monitores,4,1105.0,Débito,4420.0,2024,Outubro
+277,2024-03-12,Cliente_106,Recife,"Monitor 27""",Monitores,1,1951.0,Débito,1951.0,2024,Março
+278,2024-08-04,Cliente_53,Fortaleza,"Monitor 24""",Monitores,2,1322.0,Crédito,2644.0,2024,Agosto
+279,2024-04-03,Cliente_138,Curitiba,"Monitor 27""",Monitores,3,989.0,Crédito,2967.0,2024,Abril
+280,2024-05-22,Cliente_155,Goiânia,Mouse Gamer,Acessórios,4,789.0,Crédito,3156.0,2024,Maio
+282,2024-05-07,Cliente_78,São Paulo,"Monitor 27""",Monitores,2,1481.0,Débito,2962.0,2024,Maio
+283,2024-02-08,Cliente_63,Goiânia,Samsung Galaxy S23,Celulares,1,3961.0,Débito,3961.0,2024,Fevereiro
+284,2024-08-14,Cliente_83,Salvador,"Monitor 24""",Monitores,2,1930.0,Boleto,3860.0,2024,Agosto
+285,2024-10-08,Cliente_79,Salvador,"Monitor 27""",Monitores,5,1535.0,Pix,7675.0,2024,Outubro
+286,2024-02-20,Cliente_26,Porto Alegre,Headset Gamer,Acessórios,4,577.0,Pix,2308.0,2024,Fevereiro
+287,2024-01-26,Cliente_106,São Paulo,Samsung Galaxy S23,Celulares,3,3281.0,Débito,9843.0,2024,Janeiro
+288,2024-11-29,Cliente_142,Goiânia,iPhone 14,Celulares,1,3068.0,Boleto,3068.0,2024,Novembro
+289,2024-10-03,Cliente_85,Curitiba,Mouse Gamer,Acessórios,2,300.0,Boleto,600.0,2024,Outubro
+290,2024-01-08,Cliente_141,Fortaleza,Impressora HP,Periféricos,2,1422.0,Pix,2844.0,2024,Janeiro
+291,2024-02-17,Cliente_44,Fortaleza,"Monitor 27""",Monitores,4,1743.0,Débito,6972.0,2024,Fevereiro
+293,2024-03-26,Cliente_172,São Paulo,Headset Gamer,Acessórios,1,176.0,Crédito,176.0,2024,Março
+294,2024-07-27,Cliente_18,Belo Horizonte,"Monitor 24""",Monitores,2,1273.0,Crédito,2546.0,2024,Julho
+295,2024-09-05,Cliente_96,São Paulo,Samsung Galaxy S23,Celulares,5,3867.0,Boleto,19335.0,2024,Setembro
+296,2024-09-03,Cliente_137,Brasília,"Monitor 27""",Monitores,1,813.0,Boleto,813.0,2024,Setembro
+298,2024-07-24,Cliente_179,Recife,Notebook Dell,Notebooks,5,6330.0,Débito,31650.0,2024,Julho
+299,2024-01-31,Cliente_39,Curitiba,Notebook Lenovo,Notebooks,1,5147.0,Não informado,5147.0,2024,Janeiro
+300,2024-03-25,Cliente_91,Salvador,Impressora HP,Periféricos,5,916.0,Boleto,4580.0,2024,Março
+301,2024-07-13,Cliente_104,Porto Alegre,Notebook Lenovo,Notebooks,3,6929.0,Débito,20787.0,2024,Julho
+302,2024-01-02,Cliente_21,São Paulo,Samsung Galaxy S23,Celulares,3,4801.0,Crédito,14403.0,2024,Janeiro
+303,2024-07-18,Cliente_142,Porto Alegre,"Monitor 24""",Monitores,4,1572.0,Crédito,6288.0,2024,Julho
+304,2024-05-15,Cliente_128,Recife,Notebook Dell,Notebooks,2,3338.0,Pix,6676.0,2024,Maio
+305,2024-08-20,Cliente_11,Curitiba,Impressora HP,Periféricos,1,1481.0,Débito,1481.0,2024,Agosto
+306,2024-05-26,Cliente_12,Rio de Janeiro,Impressora HP,Periféricos,4,955.0,Pix,3820.0,2024,Maio
+307,2024-08-04,Cliente_9,Belo Horizonte,Headset Gamer,Acessórios,5,773.0,Não informado,3865.0,2024,Agosto
+308,2024-12-22,Cliente_37,Recife,Notebook Dell,Notebooks,2,5404.0,Crédito,10808.0,2024,Dezembro
+309,2024-10-11,Cliente_62,Goiânia,Mouse Gamer,Acessórios,2,677.0,Boleto,1354.0,2024,Outubro
+310,2024-12-04,Cliente_194,Belo Horizonte,Headset Gamer,Acessórios,3,493.0,Crédito,1479.0,2024,Dezembro
+311,2024-09-06,Cliente_26,Recife,Headset Gamer,Acessórios,3,154.0,Débito,462.0,2024,Setembro
+312,2024-03-20,Cliente_197,Goiânia,Notebook Lenovo,Notebooks,3,5478.0,Boleto,16434.0,2024,Março
+313,2024-04-07,Cliente_70,Porto Alegre,Teclado Mecânico,Acessórios,1,749.0,Boleto,749.0,2024,Abril
+314,2024-05-31,Cliente_97,Recife,Samsung Galaxy S23,Celulares,3,4265.0,Débito,12795.0,2024,Maio
+315,2024-04-21,Cliente_198,Não informado,Impressora HP,Periféricos,4,575.0,Pix,2300.0,2024,Abril
+316,2024-01-30,Cliente_69,Belo Horizonte,Samsung Galaxy S23,Celulares,1,2336.0,Boleto,2336.0,2024,Janeiro
+317,2024-10-23,Cliente_93,Rio de Janeiro,iPhone 14,Celulares,4,3297.0,Crédito,13188.0,2024,Outubro
+318,2024-10-04,Cliente_93,Salvador,Notebook Dell,Notebooks,3,4821.0,Crédito,14463.0,2024,Outubro
+319,2024-02-01,Cliente_111,Porto Alegre,iPhone 14,Celulares,1,2767.0,Boleto,2767.0,2024,Fevereiro
+320,2024-06-09,Não informado,Brasília,Notebook Lenovo,Notebooks,1,3367.0,Crédito,3367.0,2024,Junho
+321,2024-01-30,Cliente_99,São Paulo,Impressora HP,Periféricos,5,1064.0,Pix,5320.0,2024,Janeiro
+322,2024-01-26,Cliente_186,Brasília,"Monitor 24""",Monitores,4,1428.5,Débito,5714.0,2024,Janeiro
+323,2024-10-26,Cliente_176,Recife,Impressora HP,Periféricos,5,747.0,Débito,3735.0,2024,Outubro
+324,2024-09-01,Cliente_69,Porto Alegre,iPhone 14,Celulares,3,3233.0,Débito,9699.0,2024,Setembro
+325,2024-09-14,Cliente_71,Recife,Notebook Lenovo,Notebooks,2,4780.0,Pix,9560.0,2024,Setembro
+326,2024-09-28,Cliente_65,Curitiba,"Monitor 27""",Monitores,1,1539.0,Boleto,1539.0,2024,Setembro
+327,2024-03-21,Cliente_118,Rio de Janeiro,Impressora HP,Periféricos,5,800.0,Débito,4000.0,2024,Março
+328,2024-01-30,Cliente_86,Goiânia,Mouse Gamer,Acessórios,1,505.0,Boleto,505.0,2024,Janeiro
+329,2024-09-17,Cliente_111,Goiânia,Teclado Mecânico,Acessórios,4,442.0,Débito,1768.0,2024,Setembro
+330,2024-02-11,Cliente_178,Curitiba,Mouse Gamer,Acessórios,3,717.0,Boleto,2151.0,2024,Fevereiro
+331,2024-04-05,Cliente_82,Salvador,Teclado Mecânico,Acessórios,2,507.0,Boleto,1014.0,2024,Abril
+332,2024-02-05,Cliente_97,Salvador,Impressora HP,Periféricos,2,1067.0,Boleto,2134.0,2024,Fevereiro
+333,2024-10-31,Cliente_52,Goiânia,Teclado Mecânico,Acessórios,1,677.0,Débito,677.0,2024,Outubro
+334,2024-02-04,Cliente_182,Curitiba,Headset Gamer,Acessórios,1,572.0,Boleto,572.0,2024,Fevereiro
+335,2024-12-11,Cliente_173,Porto Alegre,Mouse Gamer,Acessórios,1,518.0,Débito,518.0,2024,Dezembro
+336,2024-04-30,Cliente_169,Belo Horizonte,Mouse Gamer,Acessórios,2,449.5,Boleto,899.0,2024,Abril
+337,2024-07-25,Cliente_154,Porto Alegre,"Monitor 24""",Monitores,1,1719.0,Boleto,1719.0,2024,Julho
+338,2024-03-02,Cliente_140,São Paulo,Headset Gamer,Acessórios,5,528.0,Pix,2640.0,2024,Março
+339,2024-10-18,Cliente_22,Rio de Janeiro,Headset Gamer,Acessórios,5,753.0,Débito,3765.0,2024,Outubro
+340,2024-05-06,Cliente_157,São Paulo,Teclado Mecânico,Acessórios,2,762.0,Boleto,1524.0,2024,Maio
+341,2024-10-23,Cliente_3,Rio de Janeiro,Teclado Mecânico,Acessórios,4,208.0,Pix,832.0,2024,Outubro
+342,2024-10-31,Cliente_143,Goiânia,Samsung Galaxy S23,Celulares,5,4124.0,Débito,20620.0,2024,Outubro
+343,2024-01-21,Cliente_119,Goiânia,"Monitor 27""",Monitores,3,1601.0,Débito,4803.0,2024,Janeiro
+344,2024-11-13,Cliente_27,Salvador,Teclado Mecânico,Acessórios,1,594.0,Boleto,594.0,2024,Novembro
+345,2024-02-11,Cliente_187,Belo Horizonte,Notebook Lenovo,Notebooks,1,6405.0,Pix,6405.0,2024,Fevereiro
+347,2024-12-02,Cliente_113,Porto Alegre,Teclado Mecânico,Acessórios,4,199.0,Pix,796.0,2024,Dezembro
+348,2024-10-25,Cliente_182,Rio de Janeiro,Notebook Lenovo,Notebooks,3,3183.0,Crédito,9549.0,2024,Outubro
+349,2024-10-16,Cliente_43,Curitiba,Teclado Mecânico,Acessórios,1,793.0,Débito,793.0,2024,Outubro
+350,2024-09-24,Cliente_144,Recife,Headset Gamer,Acessórios,2,438.0,Boleto,876.0,2024,Setembro
+351,2024-06-10,Cliente_48,Belo Horizonte,Samsung Galaxy S23,Celulares,4,4579.0,Boleto,18316.0,2024,Junho
+352,2024-05-13,Cliente_116,Goiânia,"Monitor 24""",Monitores,1,1204.0,Boleto,1204.0,2024,Maio
+353,2024-04-14,Cliente_53,Salvador,"Monitor 24""",Monitores,1,1239.0,Crédito,1239.0,2024,Abril
+354,2024-12-08,Cliente_48,Fortaleza,Impressora HP,Periféricos,1,1499.0,Pix,1499.0,2024,Dezembro
+356,2024-05-02,Cliente_151,Rio de Janeiro,Impressora HP,Periféricos,4,1203.0,Não informado,4812.0,2024,Maio
+357,2024-05-15,Cliente_45,Salvador,Teclado Mecânico,Acessórios,4,732.0,Crédito,2928.0,2024,Maio
+358,2024-07-21,Cliente_62,Salvador,iPhone 14,Celulares,3,2482.0,Crédito,7446.0,2024,Julho
+359,2024-03-08,Cliente_37,Brasília,iPhone 14,Celulares,3,4840.0,Boleto,14520.0,2024,Março
+360,2024-12-09,Cliente_148,Recife,"Monitor 24""",Monitores,5,1082.0,Boleto,5410.0,2024,Dezembro
+361,2024-11-26,Cliente_138,Belo Horizonte,iPhone 14,Celulares,4,4603.0,Débito,18412.0,2024,Novembro
+362,2024-06-02,Cliente_48,Não informado,"Monitor 27""",Monitores,3,1087.0,Boleto,3261.0,2024,Junho
+363,2024-08-22,Cliente_3,Porto Alegre,Impressora HP,Periféricos,1,1135.0,Débito,1135.0,2024,Agosto
+364,2024-06-10,Cliente_130,Porto Alegre,Samsung Galaxy S23,Celulares,4,4300.0,Boleto,17200.0,2024,Junho
+365,2024-02-07,Cliente_126,Belo Horizonte,"Monitor 27""",Monitores,4,1709.0,Crédito,6836.0,2024,Fevereiro
+366,2024-01-05,Cliente_75,São Paulo,Impressora HP,Periféricos,1,851.0,Pix,851.0,2024,Janeiro
+367,2024-08-22,Cliente_44,Porto Alegre,Samsung Galaxy S23,Celulares,5,3182.0,Boleto,15910.0,2024,Agosto
+368,2024-11-14,Cliente_147,Rio de Janeiro,Headset Gamer,Acessórios,5,215.0,Pix,1075.0,2024,Novembro
+369,2024-10-15,Cliente_194,São Paulo,Headset Gamer,Acessórios,3,655.0,Não informado,1965.0,2024,Outubro
+370,2024-02-21,Cliente_27,Curitiba,Headset Gamer,Acessórios,2,535.0,Pix,1070.0,2024,Fevereiro
+371,2024-02-07,Cliente_90,Rio de Janeiro,Notebook Dell,Notebooks,4,4076.0,Boleto,16304.0,2024,Fevereiro
+372,2024-10-02,Não informado,Goiânia,Notebook Lenovo,Notebooks,2,3859.0,Pix,7718.0,2024,Outubro
+373,2024-04-19,Cliente_158,Belo Horizonte,Impressora HP,Periféricos,4,739.0,Débito,2956.0,2024,Abril
+374,2024-09-16,Cliente_90,Brasília,Samsung Galaxy S23,Celulares,1,4335.0,Pix,4335.0,2024,Setembro
+375,2024-05-15,Cliente_83,Salvador,Impressora HP,Periféricos,5,744.0,Pix,3720.0,2024,Maio
+376,2024-03-08,Cliente_174,Rio de Janeiro,Impressora HP,Periféricos,3,1453.0,Débito,4359.0,2024,Março
+377,2024-06-27,Cliente_168,Belo Horizonte,"Monitor 24""",Monitores,1,1367.0,Débito,1367.0,2024,Junho
+378,2024-02-05,Cliente_83,Curitiba,Samsung Galaxy S23,Celulares,2,4913.0,Boleto,9826.0,2024,Fevereiro
+379,2024-05-05,Cliente_162,Salvador,"Monitor 27""",Monitores,2,1982.0,Boleto,3964.0,2024,Maio
+380,2024-07-08,Cliente_163,Rio de Janeiro,"Monitor 24""",Monitores,4,954.0,Boleto,3816.0,2024,Julho
+381,2024-05-25,Cliente_117,Porto Alegre,Headset Gamer,Acessórios,3,477.0,Pix,1431.0,2024,Maio
+382,2024-03-21,Cliente_188,Porto Alegre,Impressora HP,Periféricos,1,590.0,Pix,590.0,2024,Março
+383,2024-08-12,Cliente_56,Recife,Notebook Lenovo,Notebooks,5,4629.0,Débito,23145.0,2024,Agosto
+384,2024-10-05,Cliente_73,Fortaleza,"Monitor 27""",Monitores,3,1461.0,Débito,4383.0,2024,Outubro
+385,2024-12-26,Cliente_175,São Paulo,Impressora HP,Periféricos,4,1103.0,Crédito,4412.0,2024,Dezembro
+387,2024-11-09,Cliente_52,Belo Horizonte,"Monitor 27""",Monitores,1,1676.0,Pix,1676.0,2024,Novembro
+388,2024-11-30,Cliente_168,Fortaleza,iPhone 14,Celulares,3,2382.0,Pix,7146.0,2024,Novembro
+390,2024-01-05,Cliente_110,Rio de Janeiro,"Monitor 24""",Monitores,3,1428.5,Crédito,4285.5,2024,Janeiro
+391,2024-12-07,Cliente_20,Belo Horizonte,Notebook Dell,Notebooks,2,4953.0,Débito,9906.0,2024,Dezembro
+392,2024-10-10,Cliente_3,Fortaleza,Headset Gamer,Acessórios,4,109.0,Crédito,436.0,2024,Outubro
+394,2024-12-05,Cliente_81,Não informado,Notebook Lenovo,Notebooks,1,3422.0,Pix,3422.0,2024,Dezembro
+395,2024-02-23,Cliente_165,Belo Horizonte,iPhone 14,Celulares,4,2545.0,Crédito,10180.0,2024,Fevereiro
+396,2024-03-09,Cliente_157,Belo Horizonte,Headset Gamer,Acessórios,5,484.5,Boleto,2422.5,2024,Março
+397,2024-05-15,Cliente_192,Belo Horizonte,Teclado Mecânico,Acessórios,2,743.0,Boleto,1486.0,2024,Maio
+398,2024-02-29,Cliente_23,Rio de Janeiro,Impressora HP,Periféricos,4,844.0,Débito,3376.0,2024,Fevereiro
+399,2024-02-24,Cliente_99,Fortaleza,Notebook Lenovo,Notebooks,5,5990.0,Boleto,29950.0,2024,Fevereiro
+400,2024-10-10,Cliente_71,Rio de Janeiro,Teclado Mecânico,Acessórios,2,353.0,Débito,706.0,2024,Outubro
+401,2024-03-20,Cliente_185,Goiânia,Headset Gamer,Acessórios,5,714.0,Pix,3570.0,2024,Março
+402,2024-05-19,Cliente_133,Goiânia,Notebook Dell,Notebooks,3,3841.0,Débito,11523.0,2024,Maio
+403,2024-05-24,Cliente_62,Porto Alegre,"Monitor 24""",Monitores,3,911.0,Boleto,2733.0,2024,Maio
+404,2024-11-05,Cliente_164,Goiânia,Notebook Lenovo,Notebooks,2,5046.0,Crédito,10092.0,2024,Novembro
+405,2024-04-17,Cliente_82,Belo Horizonte,Headset Gamer,Acessórios,1,469.0,Boleto,469.0,2024,Abril
+406,2024-06-24,Cliente_140,Belo Horizonte,Impressora HP,Periféricos,4,1148.0,Boleto,4592.0,2024,Junho
+407,2024-04-14,Cliente_18,São Paulo,Notebook Lenovo,Notebooks,1,5405.0,Pix,5405.0,2024,Abril
+408,2024-12-17,Cliente_102,Brasília,Samsung Galaxy S23,Celulares,1,2247.0,Pix,2247.0,2024,Dezembro
+409,2024-11-20,Cliente_180,Recife,Headset Gamer,Acessórios,4,533.0,Crédito,2132.0,2024,Novembro
+410,2024-05-15,Cliente_40,Salvador,Headset Gamer,Acessórios,5,730.0,Não informado,3650.0,2024,Maio
+411,2024-09-15,Cliente_53,Belo Horizonte,Mouse Gamer,Acessórios,1,623.0,Pix,623.0,2024,Setembro
+412,2024-09-07,Não informado,Recife,"Monitor 24""",Monitores,5,935.0,Débito,4675.0,2024,Setembro
+413,2024-05-08,Cliente_112,Rio de Janeiro,Notebook Dell,Notebooks,2,3353.0,Boleto,6706.0,2024,Maio
+414,2024-01-27,Cliente_80,Belo Horizonte,Impressora HP,Periféricos,5,512.0,Crédito,2560.0,2024,Janeiro
+415,2024-02-17,Cliente_3,Belo Horizonte,Notebook Dell,Notebooks,2,5873.0,Boleto,11746.0,2024,Fevereiro
+416,2024-11-20,Cliente_185,Salvador,Teclado Mecânico,Acessórios,5,629.0,Débito,3145.0,2024,Novembro
+417,2024-08-04,Cliente_188,Rio de Janeiro,Teclado Mecânico,Acessórios,2,375.0,Crédito,750.0,2024,Agosto
+418,2024-05-21,Cliente_135,Rio de Janeiro,Teclado Mecânico,Acessórios,4,378.0,Pix,1512.0,2024,Maio
+419,2024-01-23,Cliente_117,Brasília,Impressora HP,Periféricos,1,1416.0,Pix,1416.0,2024,Janeiro
+420,2024-01-02,Cliente_146,Belo Horizonte,Notebook Dell,Notebooks,4,6519.0,Pix,26076.0,2024,Janeiro
+421,2024-06-19,Cliente_147,Não informado,iPhone 14,Celulares,3,2421.0,Débito,7263.0,2024,Junho
+422,2024-03-07,Cliente_4,Curitiba,Headset Gamer,Acessórios,1,145.0,Crédito,145.0,2024,Março
+423,2024-11-22,Cliente_39,Belo Horizonte,"Monitor 27""",Monitores,3,1584.0,Crédito,4752.0,2024,Novembro
+425,2024-03-23,Cliente_147,Fortaleza,Teclado Mecânico,Acessórios,3,179.0,Crédito,537.0,2024,Março
+426,2024-08-14,Cliente_58,Brasília,Headset Gamer,Acessórios,1,283.0,Crédito,283.0,2024,Agosto
+427,2024-10-09,Cliente_73,Salvador,"Monitor 24""",Monitores,1,1752.0,Pix,1752.0,2024,Outubro
+428,2024-12-27,Cliente_3,Fortaleza,Notebook Lenovo,Notebooks,5,4870.0,Débito,24350.0,2024,Dezembro
+430,2024-10-14,Cliente_198,Curitiba,"Monitor 27""",Monitores,3,1810.0,Débito,5430.0,2024,Outubro
+431,2024-01-05,Cliente_7,Curitiba,iPhone 14,Celulares,1,3679.0,Pix,3679.0,2024,Janeiro
+432,2024-02-27,Cliente_195,Recife,Notebook Dell,Notebooks,3,3005.0,Pix,9015.0,2024,Fevereiro
+433,2024-02-08,Cliente_61,Recife,Notebook Lenovo,Notebooks,2,5170.0,Boleto,10340.0,2024,Fevereiro
+434,2024-12-19,Cliente_72,Rio de Janeiro,Notebook Dell,Notebooks,2,5914.0,Crédito,11828.0,2024,Dezembro
+435,2024-03-17,Cliente_180,Fortaleza,Samsung Galaxy S23,Celulares,5,3691.0,Boleto,18455.0,2024,Março
+436,2024-10-06,Cliente_130,Belo Horizonte,Notebook Lenovo,Notebooks,5,3391.0,Boleto,16955.0,2024,Outubro
+437,2024-01-19,Cliente_16,Recife,Notebook Lenovo,Notebooks,5,5325.0,Débito,26625.0,2024,Janeiro
+438,2024-07-08,Cliente_81,Recife,Samsung Galaxy S23,Celulares,3,3069.0,Pix,9207.0,2024,Julho
+439,2024-10-25,Cliente_60,Rio de Janeiro,Teclado Mecânico,Acessórios,4,378.0,Débito,1512.0,2024,Outubro
+440,2024-10-09,Cliente_40,Rio de Janeiro,iPhone 14,Celulares,5,2446.0,Débito,12230.0,2024,Outubro
+441,2024-03-16,Cliente_105,Rio de Janeiro,"Monitor 27""",Monitores,4,1443.0,Pix,5772.0,2024,Março
+443,2024-03-06,Cliente_176,Salvador,Notebook Lenovo,Notebooks,2,6307.0,Crédito,12614.0,2024,Março
+444,2024-01-22,Cliente_24,Curitiba,Samsung Galaxy S23,Celulares,3,2607.0,Pix,7821.0,2024,Janeiro
+445,2024-06-06,Cliente_174,Não informado,"Monitor 24""",Monitores,5,900.0,Pix,4500.0,2024,Junho
+446,2024-07-05,Cliente_116,Brasília,iPhone 14,Celulares,1,3656.0,Débito,3656.0,2024,Julho
+447,2024-01-21,Cliente_36,Rio de Janeiro,Notebook Lenovo,Notebooks,4,3417.0,Crédito,13668.0,2024,Janeiro
+448,2024-07-02,Cliente_51,Recife,Notebook Dell,Notebooks,2,3535.0,Pix,7070.0,2024,Julho
+449,2024-04-17,Cliente_67,Rio de Janeiro,Notebook Lenovo,Notebooks,5,5400.0,Crédito,27000.0,2024,Abril
+450,2024-12-15,Cliente_166,Porto Alegre,Notebook Lenovo,Notebooks,2,6696.0,Débito,13392.0,2024,Dezembro
+451,2024-05-07,Cliente_11,Porto Alegre,Notebook Lenovo,Notebooks,3,3501.0,Crédito,10503.0,2024,Maio
+452,2024-12-07,Cliente_186,Recife,iPhone 14,Celulares,5,3774.0,Boleto,18870.0,2024,Dezembro
+453,2024-02-22,Cliente_110,Belo Horizonte,Notebook Dell,Notebooks,4,5798.0,Pix,23192.0,2024,Fevereiro
+454,2024-06-30,Cliente_72,Porto Alegre,Samsung Galaxy S23,Celulares,2,3126.0,Débito,6252.0,2024,Junho
+455,2024-10-13,Cliente_158,Curitiba,Notebook Dell,Notebooks,5,5536.0,Pix,27680.0,2024,Outubro
+456,2024-07-27,Cliente_123,São Paulo,"Monitor 27""",Monitores,4,1927.0,Crédito,7708.0,2024,Julho
+457,2024-11-13,Cliente_108,Não informado,Mouse Gamer,Acessórios,4,240.0,Débito,960.0,2024,Novembro
+458,2024-03-20,Cliente_183,Fortaleza,Headset Gamer,Acessórios,1,491.0,Boleto,491.0,2024,Março
+459,2024-05-01,Cliente_145,Brasília,Headset Gamer,Acessórios,4,452.0,Pix,1808.0,2024,Maio
+460,2024-03-24,Cliente_7,Fortaleza,"Monitor 24""",Monitores,3,1168.0,Débito,3504.0,2024,Março
+461,2024-03-31,Cliente_121,Brasília,Notebook Dell,Notebooks,3,3239.0,Pix,9717.0,2024,Março
+462,2024-07-30,Cliente_26,Curitiba,Impressora HP,Periféricos,2,726.0,Débito,1452.0,2024,Julho
+463,2024-01-13,Cliente_196,Curitiba,Mouse Gamer,Acessórios,5,157.0,Boleto,785.0,2024,Janeiro
+464,2024-04-01,Cliente_61,Goiânia,Teclado Mecânico,Acessórios,2,280.0,Pix,560.0,2024,Abril
+465,2024-06-19,Cliente_181,Fortaleza,Teclado Mecânico,Acessórios,5,128.0,Débito,640.0,2024,Junho
+466,2024-07-29,Cliente_139,Salvador,Impressora HP,Periféricos,2,1408.0,Débito,2816.0,2024,Julho
+467,2024-12-08,Cliente_15,Curitiba,"Monitor 27""",Monitores,1,984.0,Débito,984.0,2024,Dezembro
+468,2024-05-07,Cliente_1,Fortaleza,Notebook Dell,Notebooks,5,4957.0,Débito,24785.0,2024,Maio
+469,2024-05-16,Cliente_46,Fortaleza,iPhone 14,Celulares,3,4936.0,Não informado,14808.0,2024,Maio
+470,2024-03-22,Cliente_181,Não informado,Notebook Dell,Notebooks,2,5402.0,Crédito,10804.0,2024,Março
+471,2024-12-25,Cliente_96,Recife,Headset Gamer,Acessórios,3,174.0,Crédito,522.0,2024,Dezembro
+473,2024-07-14,Cliente_182,Brasília,"Monitor 27""",Monitores,3,1156.0,Pix,3468.0,2024,Julho
+474,2024-01-20,Cliente_97,Salvador,Samsung Galaxy S23,Celulares,5,2718.0,Pix,13590.0,2024,Janeiro
+475,2024-08-28,Cliente_1,Goiânia,iPhone 14,Celulares,2,4985.0,Boleto,9970.0,2024,Agosto
+476,2024-04-23,Cliente_155,Fortaleza,Impressora HP,Periféricos,1,772.0,Débito,772.0,2024,Abril
+477,2024-04-12,Cliente_37,Fortaleza,Impressora HP,Periféricos,1,1416.0,Crédito,1416.0,2024,Abril
+478,2024-08-23,Cliente_43,Rio de Janeiro,Samsung Galaxy S23,Celulares,3,3308.0,Pix,9924.0,2024,Agosto
+479,2024-06-28,Cliente_54,Curitiba,"Monitor 27""",Monitores,1,1343.0,Crédito,1343.0,2024,Junho
+480,2024-06-05,Cliente_185,São Paulo,Teclado Mecânico,Acessórios,3,210.0,Crédito,630.0,2024,Junho
+481,2024-04-26,Cliente_43,Recife,"Monitor 24""",Monitores,4,1659.0,Boleto,6636.0,2024,Abril
+482,2024-04-24,Cliente_97,Rio de Janeiro,"Monitor 24""",Monitores,3,1918.0,Boleto,5754.0,2024,Abril
+483,2024-01-13,Cliente_116,Rio de Janeiro,Impressora HP,Periféricos,2,733.0,Crédito,1466.0,2024,Janeiro
+484,2024-12-03,Cliente_67,Rio de Janeiro,Mouse Gamer,Acessórios,1,426.0,Crédito,426.0,2024,Dezembro
+485,2024-04-08,Cliente_42,Rio de Janeiro,Teclado Mecânico,Acessórios,2,484.0,Crédito,968.0,2024,Abril
+486,2024-07-23,Cliente_124,São Paulo,Teclado Mecânico,Acessórios,5,728.0,Boleto,3640.0,2024,Julho
+487,2024-06-17,Cliente_41,São Paulo,iPhone 14,Celulares,5,3778.0,Crédito,18890.0,2024,Junho
+488,2024-05-22,Cliente_105,Brasília,Teclado Mecânico,Acessórios,2,294.0,Pix,588.0,2024,Maio
+489,2024-02-05,Cliente_25,São Paulo,Mouse Gamer,Acessórios,3,343.0,Boleto,1029.0,2024,Fevereiro
+490,2024-05-22,Cliente_40,São Paulo,Impressora HP,Periféricos,5,1405.0,Pix,7025.0,2024,Maio
+491,2024-06-28,Cliente_76,Goiânia,Notebook Dell,Notebooks,4,3358.0,Boleto,13432.0,2024,Junho
+492,2024-11-24,Cliente_53,Belo Horizonte,Samsung Galaxy S23,Celulares,1,2105.0,Pix,2105.0,2024,Novembro
+493,2024-09-17,Cliente_30,Salvador,Notebook Lenovo,Notebooks,4,6456.0,Boleto,25824.0,2024,Setembro
+494,2024-07-23,Cliente_24,Brasília,"Monitor 27""",Monitores,4,1342.0,Boleto,5368.0,2024,Julho
+495,2024-12-13,Cliente_95,Belo Horizonte,iPhone 14,Celulares,3,3562.0,Boleto,10686.0,2024,Dezembro
+496,2024-10-01,Cliente_120,Salvador,Notebook Dell,Notebooks,3,4801.0,Não informado,14403.0,2024,Outubro
+497,2024-06-18,Cliente_39,Rio de Janeiro,Mouse Gamer,Acessórios,5,163.0,Crédito,815.0,2024,Junho
+498,2024-01-15,Cliente_194,Goiânia,Teclado Mecânico,Acessórios,5,523.0,Débito,2615.0,2024,Janeiro
+499,2024-02-29,Cliente_134,Recife,Headset Gamer,Acessórios,1,496.0,Boleto,496.0,2024,Fevereiro
+500,2024-05-13,Cliente_77,Rio de Janeiro,Impressora HP,Periféricos,2,1375.0,Boleto,2750.0,2024,Maio
+501,2024-04-01,Cliente_133,Goiânia,Notebook Dell,Notebooks,5,5339.0,Débito,26695.0,2024,Abril
+502,2024-10-24,Cliente_43,Curitiba,Notebook Lenovo,Notebooks,4,3708.0,Débito,14832.0,2024,Outubro
+504,2024-01-20,Cliente_82,Rio de Janeiro,iPhone 14,Celulares,5,3056.0,Crédito,15280.0,2024,Janeiro
+505,2024-02-25,Cliente_142,Fortaleza,"Monitor 24""",Monitores,5,1613.0,Pix,8065.0,2024,Fevereiro
+506,2024-11-01,Cliente_180,Goiânia,Headset Gamer,Acessórios,4,112.0,Não informado,448.0,2024,Novembro
+507,2024-08-10,Cliente_38,Goiânia,Notebook Lenovo,Notebooks,4,3612.0,Crédito,14448.0,2024,Agosto
+508,2024-06-25,Cliente_26,Salvador,Notebook Lenovo,Notebooks,5,6193.0,Pix,30965.0,2024,Junho
+509,2024-06-09,Cliente_168,Porto Alegre,"Monitor 24""",Monitores,3,1584.0,Boleto,4752.0,2024,Junho
+510,2024-08-11,Cliente_104,Belo Horizonte,Notebook Dell,Notebooks,2,4128.0,Boleto,8256.0,2024,Agosto
+511,2024-11-06,Cliente_85,Curitiba,Notebook Dell,Notebooks,4,6643.0,Crédito,26572.0,2024,Novembro
+512,2024-09-18,Cliente_6,Fortaleza,"Monitor 27""",Monitores,3,1562.0,Pix,4686.0,2024,Setembro
+513,2024-02-29,Cliente_179,Rio de Janeiro,Mouse Gamer,Acessórios,3,603.0,Débito,1809.0,2024,Fevereiro
+514,2024-07-16,Não informado,Fortaleza,iPhone 14,Celulares,3,3814.0,Pix,11442.0,2024,Julho
+515,2024-10-22,Cliente_49,Porto Alegre,"Monitor 24""",Monitores,5,982.0,Débito,4910.0,2024,Outubro
+516,2024-04-07,Cliente_96,São Paulo,"Monitor 24""",Monitores,4,1857.0,Débito,7428.0,2024,Abril
+517,2024-05-10,Cliente_130,Recife,Notebook Lenovo,Notebooks,3,5906.0,Débito,17718.0,2024,Maio
+518,2024-01-23,Cliente_45,Curitiba,Headset Gamer,Acessórios,5,129.0,Débito,645.0,2024,Janeiro
+519,2024-12-28,Cliente_117,São Paulo,Notebook Dell,Notebooks,2,3135.0,Pix,6270.0,2024,Dezembro
+520,2024-08-11,Cliente_119,Brasília,Samsung Galaxy S23,Celulares,3,3508.0,Boleto,10524.0,2024,Agosto
+521,2024-01-01,Cliente_96,Porto Alegre,Notebook Lenovo,Notebooks,1,3990.0,Boleto,3990.0,2024,Janeiro
+522,2024-09-23,Não informado,Fortaleza,iPhone 14,Celulares,4,4403.0,Pix,17612.0,2024,Setembro
+524,2024-12-17,Cliente_147,Curitiba,"Monitor 24""",Monitores,1,1133.0,Débito,1133.0,2024,Dezembro
+525,2024-12-09,Cliente_167,Recife,Samsung Galaxy S23,Celulares,2,3102.0,Crédito,6204.0,2024,Dezembro
+526,2024-04-10,Cliente_34,Belo Horizonte,Notebook Dell,Notebooks,4,6733.0,Crédito,26932.0,2024,Abril
+527,2024-07-05,Cliente_79,Salvador,Samsung Galaxy S23,Celulares,3,4491.0,Boleto,13473.0,2024,Julho
+528,2024-08-08,Não informado,Curitiba,"Monitor 24""",Monitores,3,1428.5,Boleto,4285.5,2024,Agosto
+529,2024-02-05,Cliente_102,Goiânia,Mouse Gamer,Acessórios,5,738.0,Crédito,3690.0,2024,Fevereiro
+530,2024-12-06,Cliente_96,Brasília,Notebook Dell,Notebooks,5,5713.0,Pix,28565.0,2024,Dezembro
+531,2024-06-18,Cliente_17,Fortaleza,Mouse Gamer,Acessórios,1,593.0,Pix,593.0,2024,Junho
+532,2024-11-15,Cliente_168,Salvador,Teclado Mecânico,Acessórios,3,367.0,Débito,1101.0,2024,Novembro
+533,2024-06-09,Cliente_15,Goiânia,iPhone 14,Celulares,5,2984.0,Boleto,14920.0,2024,Junho
+534,2024-12-05,Cliente_168,Porto Alegre,Teclado Mecânico,Acessórios,2,126.0,Pix,252.0,2024,Dezembro
+535,2024-03-04,Cliente_100,São Paulo,Mouse Gamer,Acessórios,4,514.0,Débito,2056.0,2024,Março
+536,2024-06-02,Cliente_164,Porto Alegre,Teclado Mecânico,Acessórios,2,647.0,Pix,1294.0,2024,Junho
+537,2024-09-16,Cliente_169,Brasília,Headset Gamer,Acessórios,3,274.0,Débito,822.0,2024,Setembro
+539,2024-12-07,Cliente_91,Curitiba,Teclado Mecânico,Acessórios,1,327.0,Pix,327.0,2024,Dezembro
+541,2024-06-16,Cliente_14,Goiânia,"Monitor 27""",Monitores,1,1763.0,Crédito,1763.0,2024,Junho
+542,2024-07-25,Cliente_31,Recife,"Monitor 27""",Monitores,2,1824.0,Pix,3648.0,2024,Julho
+543,2024-12-22,Cliente_36,Curitiba,"Monitor 24""",Monitores,1,1108.0,Pix,1108.0,2024,Dezembro
+544,2024-05-31,Cliente_37,Fortaleza,"Monitor 24""",Monitores,5,1737.0,Débito,8685.0,2024,Maio
+545,2024-10-10,Cliente_162,Belo Horizonte,Notebook Lenovo,Notebooks,4,4362.0,Pix,17448.0,2024,Outubro
+546,2024-03-06,Cliente_71,Curitiba,Notebook Dell,Notebooks,1,4851.0,Débito,4851.0,2024,Março
+547,2024-04-08,Cliente_196,Rio de Janeiro,Impressora HP,Periféricos,2,1402.0,Débito,2804.0,2024,Abril
+548,2024-08-03,Cliente_104,Recife,Impressora HP,Periféricos,4,1279.0,Boleto,5116.0,2024,Agosto
+550,2024-07-13,Não informado,Curitiba,Notebook Dell,Notebooks,3,6100.0,Crédito,18300.0,2024,Julho
+551,2024-12-12,Cliente_178,Fortaleza,Notebook Dell,Notebooks,2,3926.0,Pix,7852.0,2024,Dezembro
+552,2024-03-30,Cliente_129,Goiânia,iPhone 14,Celulares,1,3571.0,Pix,3571.0,2024,Março
+553,2024-11-11,Cliente_77,Salvador,iPhone 14,Celulares,1,2187.0,Boleto,2187.0,2024,Novembro
+554,2024-10-18,Cliente_87,Recife,Headset Gamer,Acessórios,5,636.0,Débito,3180.0,2024,Outubro
+555,2024-06-03,Cliente_193,Curitiba,Teclado Mecânico,Acessórios,4,467.0,Débito,1868.0,2024,Junho
+556,2024-07-26,Cliente_58,Belo Horizonte,"Monitor 24""",Monitores,1,1428.5,Débito,1428.5,2024,Julho
+557,2024-10-07,Cliente_44,Rio de Janeiro,Notebook Dell,Notebooks,5,5066.0,Pix,25330.0,2024,Outubro
+558,2024-01-01,Cliente_164,Salvador,Notebook Dell,Notebooks,4,6590.0,Crédito,26360.0,2024,Janeiro
+559,2024-06-04,Cliente_168,São Paulo,Impressora HP,Periféricos,1,621.0,Crédito,621.0,2024,Junho
+560,2024-05-26,Cliente_98,Rio de Janeiro,Notebook Lenovo,Notebooks,4,4819.0,Pix,19276.0,2024,Maio
+561,2024-04-17,Cliente_178,São Paulo,"Monitor 27""",Monitores,2,1220.0,Pix,2440.0,2024,Abril
+563,2024-10-23,Cliente_185,Não informado,"Monitor 24""",Monitores,1,1847.0,Crédito,1847.0,2024,Outubro
+564,2024-11-06,Cliente_128,Curitiba,Mouse Gamer,Acessórios,1,208.0,Débito,208.0,2024,Novembro
+565,2024-12-01,Cliente_92,Recife,Mouse Gamer,Acessórios,5,306.0,Não informado,1530.0,2024,Dezembro
+566,2024-06-13,Cliente_128,Curitiba,iPhone 14,Celulares,1,4245.0,Boleto,4245.0,2024,Junho
+567,2024-08-26,Cliente_4,Rio de Janeiro,Teclado Mecânico,Acessórios,2,102.0,Crédito,204.0,2024,Agosto
+569,2024-08-14,Cliente_60,Porto Alegre,Notebook Lenovo,Notebooks,3,5639.0,Pix,16917.0,2024,Agosto
+570,2024-12-11,Cliente_26,Belo Horizonte,Mouse Gamer,Acessórios,4,151.0,Crédito,604.0,2024,Dezembro
+571,2024-04-19,Cliente_81,Recife,Mouse Gamer,Acessórios,3,793.0,Crédito,2379.0,2024,Abril
+572,2024-09-18,Cliente_36,Belo Horizonte,Notebook Lenovo,Notebooks,1,3039.0,Pix,3039.0,2024,Setembro
+573,2024-08-30,Cliente_69,Rio de Janeiro,Teclado Mecânico,Acessórios,4,736.0,Pix,2944.0,2024,Agosto
+574,2024-03-27,Cliente_103,Recife,Teclado Mecânico,Acessórios,2,216.0,Boleto,432.0,2024,Março
+575,2024-12-03,Cliente_108,Belo Horizonte,Mouse Gamer,Acessórios,4,589.0,Crédito,2356.0,2024,Dezembro
+576,2024-02-13,Cliente_27,Recife,iPhone 14,Celulares,1,2652.0,Boleto,2652.0,2024,Fevereiro
+577,2024-05-25,Cliente_157,Recife,Impressora HP,Periféricos,4,771.0,Pix,3084.0,2024,Maio
+578,2024-09-20,Cliente_124,Porto Alegre,Impressora HP,Periféricos,1,667.0,Crédito,667.0,2024,Setembro
+579,2024-12-05,Cliente_17,Salvador,"Monitor 24""",Monitores,4,894.0,Pix,3576.0,2024,Dezembro
+580,2024-11-20,Cliente_191,Goiânia,Notebook Dell,Notebooks,5,6143.0,Débito,30715.0,2024,Novembro
+581,2024-11-13,Cliente_177,Goiânia,Teclado Mecânico,Acessórios,5,635.0,Crédito,3175.0,2024,Novembro
+582,2024-06-20,Cliente_89,Recife,"Monitor 24""",Monitores,2,1786.0,Débito,3572.0,2024,Junho
+583,2024-02-17,Cliente_3,Belo Horizonte,Headset Gamer,Acessórios,5,155.0,Boleto,775.0,2024,Fevereiro
+584,2024-04-30,Cliente_193,Porto Alegre,"Monitor 27""",Monitores,2,953.0,Pix,1906.0,2024,Abril
+585,2024-12-10,Cliente_13,Brasília,Samsung Galaxy S23,Celulares,3,3139.0,Débito,9417.0,2024,Dezembro
+586,2024-06-07,Cliente_61,Rio de Janeiro,Headset Gamer,Acessórios,4,512.0,Boleto,2048.0,2024,Junho
+587,2024-04-25,Cliente_23,Porto Alegre,"Monitor 27""",Monitores,5,1436.5,Não informado,7182.5,2024,Abril
+588,2024-04-11,Cliente_191,São Paulo,Teclado Mecânico,Acessórios,1,609.0,Crédito,609.0,2024,Abril
+589,2024-03-16,Cliente_143,Brasília,"Monitor 24""",Monitores,4,873.0,Crédito,3492.0,2024,Março
+590,2024-01-13,Cliente_159,Salvador,Notebook Lenovo,Notebooks,5,6945.0,Débito,34725.0,2024,Janeiro
+591,2024-01-24,Cliente_14,Curitiba,"Monitor 27""",Monitores,3,1544.0,Boleto,4632.0,2024,Janeiro
+592,2024-05-05,Cliente_154,Porto Alegre,Teclado Mecânico,Acessórios,5,734.0,Pix,3670.0,2024,Maio
+593,2024-08-31,Cliente_195,Curitiba,"Monitor 27""",Monitores,1,999.0,Crédito,999.0,2024,Agosto
+594,2024-11-08,Cliente_75,Brasília,Teclado Mecânico,Acessórios,3,748.0,Pix,2244.0,2024,Novembro
+595,2024-02-07,Cliente_43,Porto Alegre,Notebook Lenovo,Notebooks,1,5158.5,Débito,5158.5,2024,Fevereiro
+596,2024-08-21,Cliente_157,Curitiba,"Monitor 24""",Monitores,1,1320.0,Débito,1320.0,2024,Agosto
+597,2024-07-31,Cliente_118,Curitiba,Notebook Lenovo,Notebooks,4,3883.0,Pix,15532.0,2024,Julho
+598,2024-11-18,Cliente_163,Goiânia,Notebook Lenovo,Notebooks,4,3190.0,Crédito,12760.0,2024,Novembro
+599,2024-10-21,Cliente_35,Porto Alegre,"Monitor 27""",Monitores,4,1832.0,Crédito,7328.0,2024,Outubro
+600,2024-04-09,Cliente_111,Goiânia,Headset Gamer,Acessórios,1,666.0,Boleto,666.0,2024,Abril
+601,2024-12-22,Cliente_45,Belo Horizonte,Headset Gamer,Acessórios,2,692.0,Crédito,1384.0,2024,Dezembro
+602,2024-07-15,Cliente_130,Recife,"Monitor 24""",Monitores,5,1459.0,Boleto,7295.0,2024,Julho
+603,2024-09-10,Cliente_102,Fortaleza,Impressora HP,Periféricos,2,960.0,Não informado,1920.0,2024,Setembro
+604,2024-07-23,Cliente_106,Goiânia,"Monitor 27""",Monitores,2,1082.0,Não informado,2164.0,2024,Julho
+605,2024-05-04,Cliente_162,Curitiba,Headset Gamer,Acessórios,3,666.0,Débito,1998.0,2024,Maio
+606,2024-03-16,Cliente_75,Fortaleza,Samsung Galaxy S23,Celulares,5,4926.0,Débito,24630.0,2024,Março
+607,2024-12-01,Cliente_178,Fortaleza,iPhone 14,Celulares,5,4222.0,Crédito,21110.0,2024,Dezembro
+608,2024-12-18,Cliente_150,Goiânia,Teclado Mecânico,Acessórios,5,591.0,Boleto,2955.0,2024,Dezembro
+609,2024-01-03,Cliente_4,Brasília,Headset Gamer,Acessórios,3,532.0,Crédito,1596.0,2024,Janeiro
+610,2024-02-24,Cliente_14,São Paulo,Notebook Dell,Notebooks,4,3595.0,Débito,14380.0,2024,Fevereiro
+611,2024-08-05,Cliente_175,Salvador,Mouse Gamer,Acessórios,2,393.0,Não informado,786.0,2024,Agosto
+612,2024-04-22,Cliente_193,Brasília,Notebook Dell,Notebooks,3,3835.0,Crédito,11505.0,2024,Abril
+613,2024-03-31,Cliente_158,Brasília,Teclado Mecânico,Acessórios,4,204.0,Não informado,816.0,2024,Março
+614,2024-12-22,Cliente_131,Salvador,Headset Gamer,Acessórios,4,343.0,Crédito,1372.0,2024,Dezembro
+615,2024-09-22,Cliente_176,Fortaleza,"Monitor 24""",Monitores,4,1653.0,Crédito,6612.0,2024,Setembro
+616,2024-08-25,Cliente_159,Porto Alegre,Notebook Dell,Notebooks,3,3831.0,Débito,11493.0,2024,Agosto
+617,2024-01-26,Cliente_190,Goiânia,Teclado Mecânico,Acessórios,5,659.0,Débito,3295.0,2024,Janeiro
+618,2024-10-12,Cliente_46,Rio de Janeiro,Samsung Galaxy S23,Celulares,3,3838.0,Débito,11514.0,2024,Outubro
+619,2024-05-07,Cliente_97,São Paulo,iPhone 14,Celulares,5,2488.0,Boleto,12440.0,2024,Maio
+620,2024-03-03,Cliente_34,Belo Horizonte,Mouse Gamer,Acessórios,5,370.0,Pix,1850.0,2024,Março
+621,2024-08-21,Cliente_182,Belo Horizonte,Notebook Dell,Notebooks,3,4910.0,Crédito,14730.0,2024,Agosto
+622,2024-03-09,Cliente_14,Goiânia,iPhone 14,Celulares,3,4444.0,Pix,13332.0,2024,Março
+623,2024-08-25,Cliente_92,Rio de Janeiro,"Monitor 27""",Monitores,5,1926.0,Pix,9630.0,2024,Agosto
+624,2024-12-07,Cliente_134,Rio de Janeiro,Headset Gamer,Acessórios,2,288.0,Débito,576.0,2024,Dezembro
+625,2024-09-28,Cliente_104,Rio de Janeiro,"Monitor 24""",Monitores,5,1899.0,Pix,9495.0,2024,Setembro
+626,2024-10-13,Cliente_85,Fortaleza,Samsung Galaxy S23,Celulares,2,4717.0,Pix,9434.0,2024,Outubro
+627,2024-10-31,Não informado,Porto Alegre,Mouse Gamer,Acessórios,2,733.0,Crédito,1466.0,2024,Outubro
+628,2024-06-11,Cliente_62,Goiânia,Notebook Lenovo,Notebooks,3,4825.0,Débito,14475.0,2024,Junho
+629,2024-08-14,Cliente_30,Recife,Notebook Dell,Notebooks,3,4562.0,Pix,13686.0,2024,Agosto
+630,2024-11-09,Cliente_133,Fortaleza,Headset Gamer,Acessórios,3,125.0,Boleto,375.0,2024,Novembro
+631,2024-09-15,Cliente_167,Curitiba,"Monitor 27""",Monitores,1,1436.5,Pix,1436.5,2024,Setembro
+632,2024-08-06,Cliente_43,Brasília,Headset Gamer,Acessórios,1,198.0,Crédito,198.0,2024,Agosto
+633,2024-10-07,Cliente_162,Curitiba,Notebook Lenovo,Notebooks,2,5745.0,Boleto,11490.0,2024,Outubro
+634,2024-08-16,Cliente_180,Recife,Notebook Lenovo,Notebooks,2,5202.0,Crédito,10404.0,2024,Agosto
+635,2024-03-22,Cliente_184,Fortaleza,iPhone 14,Celulares,1,3880.0,Crédito,3880.0,2024,Março
+636,2024-08-31,Cliente_46,Salvador,Notebook Lenovo,Notebooks,1,3222.0,Crédito,3222.0,2024,Agosto
+637,2024-08-18,Não informado,Recife,Impressora HP,Periféricos,2,929.0,Boleto,1858.0,2024,Agosto
+638,2024-05-12,Cliente_5,Recife,"Monitor 24""",Monitores,4,1447.0,Crédito,5788.0,2024,Maio
+640,2024-11-22,Cliente_92,Brasília,Impressora HP,Periféricos,1,548.0,Crédito,548.0,2024,Novembro
+641,2024-05-21,Cliente_23,Salvador,Mouse Gamer,Acessórios,3,721.0,Boleto,2163.0,2024,Maio
+642,2024-09-23,Cliente_122,Belo Horizonte,"Monitor 24""",Monitores,4,863.0,Débito,3452.0,2024,Setembro
+643,2024-09-05,Cliente_76,Belo Horizonte,iPhone 14,Celulares,4,4235.0,Pix,16940.0,2024,Setembro
+644,2024-11-16,Cliente_143,Belo Horizonte,Teclado Mecânico,Acessórios,1,666.0,Crédito,666.0,2024,Novembro
+645,2024-05-02,Cliente_153,Recife,Notebook Dell,Notebooks,1,5345.0,Crédito,5345.0,2024,Maio
+646,2024-05-20,Cliente_55,Recife,Mouse Gamer,Acessórios,2,452.0,Débito,904.0,2024,Maio
+647,2024-08-13,Cliente_158,Salvador,iPhone 14,Celulares,2,2904.0,Débito,5808.0,2024,Agosto
+648,2024-02-09,Cliente_146,São Paulo,Notebook Lenovo,Notebooks,2,5748.0,Boleto,11496.0,2024,Fevereiro
+649,2024-05-26,Cliente_172,Rio de Janeiro,Headset Gamer,Acessórios,1,397.0,Pix,397.0,2024,Maio
+650,2024-04-30,Cliente_149,Porto Alegre,Notebook Lenovo,Notebooks,2,5972.0,Pix,11944.0,2024,Abril
+651,2024-05-19,Cliente_168,Curitiba,Teclado Mecânico,Acessórios,2,787.0,Crédito,1574.0,2024,Maio
+652,2024-06-20,Cliente_50,Fortaleza,Mouse Gamer,Acessórios,5,171.0,Boleto,855.0,2024,Junho
+653,2024-06-12,Cliente_178,Goiânia,"Monitor 27""",Monitores,3,1426.0,Débito,4278.0,2024,Junho
+654,2024-10-03,Cliente_81,Recife,Impressora HP,Periféricos,5,1146.0,Débito,5730.0,2024,Outubro
+655,2024-02-11,Cliente_57,Recife,Notebook Dell,Notebooks,3,4008.0,Pix,12024.0,2024,Fevereiro
+656,2024-03-11,Cliente_188,Fortaleza,Teclado Mecânico,Acessórios,2,795.0,Boleto,1590.0,2024,Março
+657,2024-03-18,Cliente_199,Salvador,"Monitor 27""",Monitores,4,1534.0,Boleto,6136.0,2024,Março
+658,2024-04-28,Cliente_166,Goiânia,Headset Gamer,Acessórios,1,279.0,Crédito,279.0,2024,Abril
+659,2024-07-15,Cliente_51,Salvador,Mouse Gamer,Acessórios,2,651.0,Crédito,1302.0,2024,Julho
+660,2024-12-21,Cliente_130,São Paulo,Notebook Lenovo,Notebooks,1,6479.0,Boleto,6479.0,2024,Dezembro
+661,2024-03-19,Não informado,Salvador,Impressora HP,Periféricos,2,475.0,Boleto,950.0,2024,Março
+662,2024-12-27,Cliente_58,Goiânia,iPhone 14,Celulares,3,3607.0,Pix,10821.0,2024,Dezembro
+663,2024-04-19,Cliente_131,Rio de Janeiro,iPhone 14,Celulares,4,4052.0,Boleto,16208.0,2024,Abril
+664,2024-02-02,Cliente_170,Curitiba,Teclado Mecânico,Acessórios,5,110.0,Débito,550.0,2024,Fevereiro
+665,2024-07-31,Cliente_41,Belo Horizonte,Headset Gamer,Acessórios,2,556.0,Débito,1112.0,2024,Julho
+666,2024-07-27,Cliente_57,Porto Alegre,"Monitor 27""",Monitores,3,882.0,Débito,2646.0,2024,Julho
+667,2024-06-18,Cliente_60,São Paulo,Notebook Lenovo,Notebooks,3,5158.5,Débito,15475.5,2024,Junho
+668,2024-10-04,Cliente_121,Porto Alegre,Headset Gamer,Acessórios,3,497.0,Crédito,1491.0,2024,Outubro
+669,2024-08-26,Cliente_181,Brasília,Notebook Dell,Notebooks,3,3422.0,Pix,10266.0,2024,Agosto
+670,2024-07-31,Cliente_146,Belo Horizonte,Mouse Gamer,Acessórios,5,657.0,Boleto,3285.0,2024,Julho
+671,2024-02-01,Cliente_133,Salvador,"Monitor 24""",Monitores,3,959.0,Boleto,2877.0,2024,Fevereiro
+672,2024-04-15,Cliente_91,Fortaleza,Samsung Galaxy S23,Celulares,5,3662.0,Boleto,18310.0,2024,Abril
+673,2024-08-03,Cliente_129,Belo Horizonte,"Monitor 27""",Monitores,5,813.0,Boleto,4065.0,2024,Agosto
+674,2024-07-18,Cliente_132,Salvador,iPhone 14,Celulares,2,2315.0,Débito,4630.0,2024,Julho
+675,2024-10-26,Cliente_93,Goiânia,iPhone 14,Celulares,2,2644.0,Crédito,5288.0,2024,Outubro
+676,2024-12-22,Cliente_185,Rio de Janeiro,Samsung Galaxy S23,Celulares,4,3352.0,Boleto,13408.0,2024,Dezembro
+677,2024-01-11,Cliente_152,Belo Horizonte,"Monitor 27""",Monitores,4,1231.0,Boleto,4924.0,2024,Janeiro
+678,2024-10-21,Cliente_33,Goiânia,Notebook Dell,Notebooks,2,3176.0,Débito,6352.0,2024,Outubro
+679,2024-07-13,Não informado,Belo Horizonte,iPhone 14,Celulares,5,2160.0,Crédito,10800.0,2024,Julho
+680,2024-09-01,Cliente_133,Recife,iPhone 14,Celulares,3,2737.0,Crédito,8211.0,2024,Setembro
+681,2024-01-04,Cliente_115,Goiânia,Mouse Gamer,Acessórios,1,321.0,Boleto,321.0,2024,Janeiro
+682,2024-06-29,Cliente_106,Goiânia,"Monitor 27""",Monitores,2,1436.5,Débito,2873.0,2024,Junho
+683,2024-06-01,Cliente_68,Belo Horizonte,Impressora HP,Periféricos,2,1446.0,Pix,2892.0,2024,Junho
+684,2024-07-18,Cliente_59,Recife,"Monitor 27""",Monitores,5,940.0,Boleto,4700.0,2024,Julho
+685,2024-08-02,Cliente_52,Brasília,iPhone 14,Celulares,1,2067.0,Boleto,2067.0,2024,Agosto
+686,2024-10-02,Cliente_46,Não informado,iPhone 14,Celulares,5,2394.0,Crédito,11970.0,2024,Outubro
+687,2024-10-06,Cliente_24,Porto Alegre,Headset Gamer,Acessórios,5,220.0,Débito,1100.0,2024,Outubro
+688,2024-11-04,Cliente_199,Recife,Impressora HP,Periféricos,5,402.0,Boleto,2010.0,2024,Novembro
+689,2024-04-22,Cliente_110,Curitiba,Teclado Mecânico,Acessórios,1,518.0,Boleto,518.0,2024,Abril
+690,2024-09-06,Cliente_26,Recife,"Monitor 24""",Monitores,3,1979.0,Débito,5937.0,2024,Setembro
+691,2024-04-22,Cliente_22,Salvador,Mouse Gamer,Acessórios,4,338.0,Boleto,1352.0,2024,Abril
+693,2024-08-11,Cliente_168,Não informado,Headset Gamer,Acessórios,1,484.0,Pix,484.0,2024,Agosto
+694,2024-09-05,Cliente_40,Recife,"Monitor 24""",Monitores,3,1018.0,Pix,3054.0,2024,Setembro
+695,2024-01-15,Cliente_145,Fortaleza,Mouse Gamer,Acessórios,5,533.0,Pix,2665.0,2024,Janeiro
+696,2024-07-18,Cliente_142,Brasília,"Monitor 24""",Monitores,2,1646.0,Boleto,3292.0,2024,Julho
+697,2024-06-21,Cliente_143,Porto Alegre,iPhone 14,Celulares,3,4290.0,Pix,12870.0,2024,Junho
+698,2024-12-08,Cliente_199,Recife,Mouse Gamer,Acessórios,5,452.0,Débito,2260.0,2024,Dezembro
+699,2024-12-13,Cliente_180,Belo Horizonte,Notebook Lenovo,Notebooks,2,4829.0,Crédito,9658.0,2024,Dezembro
+700,2024-07-26,Cliente_87,Brasília,Samsung Galaxy S23,Celulares,5,3640.0,Crédito,18200.0,2024,Julho
+701,2024-03-25,Cliente_2,Rio de Janeiro,iPhone 14,Celulares,4,4604.0,Débito,18416.0,2024,Março
+702,2024-08-27,Cliente_23,Rio de Janeiro,"Monitor 27""",Monitores,5,1691.0,Pix,8455.0,2024,Agosto
+703,2024-03-06,Cliente_156,São Paulo,Samsung Galaxy S23,Celulares,3,2327.0,Boleto,6981.0,2024,Março
+704,2024-11-14,Cliente_74,Goiânia,"Monitor 24""",Monitores,5,1867.0,Crédito,9335.0,2024,Novembro
+705,2024-09-30,Cliente_3,Curitiba,iPhone 14,Celulares,4,3798.0,Pix,15192.0,2024,Setembro
+706,2024-01-14,Cliente_131,Brasília,Samsung Galaxy S23,Celulares,1,4455.0,Débito,4455.0,2024,Janeiro
+707,2024-07-20,Cliente_93,Curitiba,Impressora HP,Periféricos,2,473.0,Crédito,946.0,2024,Julho
+708,2024-10-30,Cliente_200,Recife,iPhone 14,Celulares,1,3130.0,Pix,3130.0,2024,Outubro
+709,2024-10-15,Cliente_52,Brasília,"Monitor 24""",Monitores,4,2000.0,Crédito,8000.0,2024,Outubro
+710,2024-12-05,Cliente_73,Brasília,Notebook Lenovo,Notebooks,1,5251.0,Pix,5251.0,2024,Dezembro
+711,2024-01-14,Cliente_156,Curitiba,Teclado Mecânico,Acessórios,3,331.0,Boleto,993.0,2024,Janeiro
+712,2024-02-12,Cliente_67,Belo Horizonte,"Monitor 24""",Monitores,5,809.0,Boleto,4045.0,2024,Fevereiro
+713,2024-11-25,Cliente_19,Brasília,Headset Gamer,Acessórios,1,672.0,Pix,672.0,2024,Novembro
+714,2024-08-07,Cliente_66,Brasília,Teclado Mecânico,Acessórios,1,625.0,Pix,625.0,2024,Agosto
+715,2024-03-10,Cliente_124,Curitiba,"Monitor 27""",Monitores,4,1953.0,Pix,7812.0,2024,Março
+716,2024-08-24,Cliente_124,Rio de Janeiro,"Monitor 27""",Monitores,4,856.0,Pix,3424.0,2024,Agosto
+717,2024-04-03,Cliente_57,Curitiba,Notebook Lenovo,Notebooks,4,5595.0,Pix,22380.0,2024,Abril
+718,2024-01-26,Cliente_138,São Paulo,"Monitor 24""",Monitores,3,1857.0,Pix,5571.0,2024,Janeiro
+719,2024-05-13,Cliente_103,Fortaleza,Samsung Galaxy S23,Celulares,3,2380.0,Crédito,7140.0,2024,Maio
+720,2024-07-13,Cliente_81,Fortaleza,Headset Gamer,Acessórios,2,587.0,Débito,1174.0,2024,Julho
+721,2024-06-16,Cliente_192,Curitiba,Impressora HP,Periféricos,3,774.0,Boleto,2322.0,2024,Junho
+722,2024-04-18,Cliente_68,Curitiba,Samsung Galaxy S23,Celulares,2,2991.0,Débito,5982.0,2024,Abril
+723,2024-08-20,Cliente_92,Belo Horizonte,Samsung Galaxy S23,Celulares,2,4533.0,Crédito,9066.0,2024,Agosto
+724,2024-06-16,Cliente_170,Porto Alegre,Notebook Lenovo,Notebooks,1,5768.0,Crédito,5768.0,2024,Junho
+725,2024-06-21,Cliente_96,Goiânia,Headset Gamer,Acessórios,1,593.0,Pix,593.0,2024,Junho
+726,2024-07-13,Cliente_126,Belo Horizonte,"Monitor 27""",Monitores,5,1362.0,Pix,6810.0,2024,Julho
+727,2024-05-22,Cliente_33,São Paulo,"Monitor 24""",Monitores,2,1981.0,Boleto,3962.0,2024,Maio
+728,2024-08-03,Cliente_129,Fortaleza,"Monitor 27""",Monitores,5,866.0,Boleto,4330.0,2024,Agosto
+729,2024-05-09,Cliente_179,Brasília,iPhone 14,Celulares,4,2493.0,Boleto,9972.0,2024,Maio
+732,2024-01-10,Cliente_61,Salvador,iPhone 14,Celulares,5,3076.0,Boleto,15380.0,2024,Janeiro
+733,2024-10-03,Cliente_48,Porto Alegre,Impressora HP,Periféricos,3,955.0,Boleto,2865.0,2024,Outubro
+734,2024-01-27,Cliente_193,Fortaleza,Samsung Galaxy S23,Celulares,4,4870.0,Pix,19480.0,2024,Janeiro
+735,2024-06-28,Cliente_47,Goiânia,"Monitor 24""",Monitores,3,1723.0,Débito,5169.0,2024,Junho
+736,2024-04-24,Cliente_185,Salvador,Impressora HP,Periféricos,2,604.0,Débito,1208.0,2024,Abril
+737,2024-11-28,Cliente_51,Belo Horizonte,Headset Gamer,Acessórios,4,490.0,Débito,1960.0,2024,Novembro
+738,2024-02-05,Não informado,Porto Alegre,"Monitor 27""",Monitores,1,1161.0,Débito,1161.0,2024,Fevereiro
+739,2024-11-29,Cliente_125,Não informado,Headset Gamer,Acessórios,5,423.0,Pix,2115.0,2024,Novembro
+740,2024-01-21,Cliente_102,Rio de Janeiro,Headset Gamer,Acessórios,5,148.0,Débito,740.0,2024,Janeiro
+741,2024-01-16,Não informado,Porto Alegre,Notebook Dell,Notebooks,2,6333.0,Crédito,12666.0,2024,Janeiro
+742,2024-05-06,Cliente_93,Fortaleza,"Monitor 27""",Monitores,3,1332.0,Pix,3996.0,2024,Maio
+743,2024-04-12,Cliente_32,Fortaleza,Teclado Mecânico,Acessórios,1,521.0,Débito,521.0,2024,Abril
+744,2024-01-11,Cliente_200,Salvador,Impressora HP,Periféricos,5,757.0,Pix,3785.0,2024,Janeiro
+745,2024-11-14,Cliente_199,Porto Alegre,Teclado Mecânico,Acessórios,5,599.0,Crédito,2995.0,2024,Novembro
+746,2024-03-19,Cliente_119,Belo Horizonte,"Monitor 24""",Monitores,5,1386.0,Débito,6930.0,2024,Março
+747,2024-05-02,Cliente_157,Goiânia,Teclado Mecânico,Acessórios,4,746.0,Boleto,2984.0,2024,Maio
+748,2024-03-05,Cliente_88,Curitiba,Notebook Lenovo,Notebooks,1,3663.0,Pix,3663.0,2024,Março
+749,2024-08-30,Cliente_155,Recife,Teclado Mecânico,Acessórios,3,373.0,Pix,1119.0,2024,Agosto
+750,2024-12-08,Cliente_116,Recife,"Monitor 27""",Monitores,3,1866.0,Débito,5598.0,2024,Dezembro
+751,2024-02-28,Cliente_187,Curitiba,iPhone 14,Celulares,1,3589.0,Pix,3589.0,2024,Fevereiro
+753,2024-04-21,Cliente_14,São Paulo,Notebook Lenovo,Notebooks,4,5246.0,Boleto,20984.0,2024,Abril
+754,2024-08-26,Cliente_68,Goiânia,Headset Gamer,Acessórios,1,206.0,Débito,206.0,2024,Agosto
+755,2024-12-24,Cliente_59,Curitiba,Notebook Lenovo,Notebooks,4,4267.0,Pix,17068.0,2024,Dezembro
+756,2024-05-11,Cliente_135,Belo Horizonte,"Monitor 27""",Monitores,2,1068.0,Crédito,2136.0,2024,Maio
+757,2024-07-07,Cliente_84,Porto Alegre,Notebook Dell,Notebooks,3,6524.0,Boleto,19572.0,2024,Julho
+758,2024-03-26,Cliente_114,Belo Horizonte,Headset Gamer,Acessórios,3,661.0,Débito,1983.0,2024,Março
+759,2024-11-06,Cliente_162,Goiânia,Impressora HP,Periféricos,5,1335.0,Boleto,6675.0,2024,Novembro
+760,2024-11-06,Cliente_89,Porto Alegre,Headset Gamer,Acessórios,5,417.0,Débito,2085.0,2024,Novembro
+761,2024-02-28,Cliente_94,Recife,Notebook Lenovo,Notebooks,4,4261.0,Pix,17044.0,2024,Fevereiro
+762,2024-03-24,Não informado,Brasília,iPhone 14,Celulares,3,2043.0,Débito,6129.0,2024,Março
+763,2024-06-08,Cliente_137,São Paulo,Teclado Mecânico,Acessórios,3,580.0,Boleto,1740.0,2024,Junho
+764,2024-02-25,Cliente_197,Recife,"Monitor 27""",Monitores,3,818.0,Pix,2454.0,2024,Fevereiro
+765,2024-10-23,Cliente_141,Fortaleza,Impressora HP,Periféricos,2,414.0,Débito,828.0,2024,Outubro
+766,2024-01-14,Cliente_102,Curitiba,"Monitor 24""",Monitores,5,1695.0,Débito,8475.0,2024,Janeiro
+768,2024-10-21,Cliente_178,Salvador,Samsung Galaxy S23,Celulares,5,4511.0,Pix,22555.0,2024,Outubro
+769,2024-12-12,Cliente_49,Rio de Janeiro,Headset Gamer,Acessórios,3,522.0,Débito,1566.0,2024,Dezembro
+770,2024-07-11,Cliente_164,Porto Alegre,iPhone 14,Celulares,3,3589.0,Boleto,10767.0,2024,Julho
+771,2024-07-22,Cliente_49,Fortaleza,Mouse Gamer,Acessórios,5,603.0,Crédito,3015.0,2024,Julho
+772,2024-04-11,Cliente_6,Belo Horizonte,iPhone 14,Celulares,1,4191.0,Crédito,4191.0,2024,Abril
+773,2024-02-08,Cliente_184,Porto Alegre,Mouse Gamer,Acessórios,3,228.0,Crédito,684.0,2024,Fevereiro
+774,2024-10-30,Cliente_4,Porto Alegre,Samsung Galaxy S23,Celulares,1,2617.0,Débito,2617.0,2024,Outubro
+775,2024-12-19,Cliente_128,Fortaleza,Teclado Mecânico,Acessórios,4,419.0,Boleto,1676.0,2024,Dezembro
+776,2024-11-17,Cliente_193,Belo Horizonte,Notebook Dell,Notebooks,3,3328.0,Crédito,9984.0,2024,Novembro
+777,2024-05-04,Cliente_140,Porto Alegre,Mouse Gamer,Acessórios,4,173.0,Débito,692.0,2024,Maio
+778,2024-02-22,Cliente_4,Rio de Janeiro,Samsung Galaxy S23,Celulares,3,3562.0,Débito,10686.0,2024,Fevereiro
+779,2024-12-22,Cliente_189,São Paulo,"Monitor 24""",Monitores,4,1306.0,Débito,5224.0,2024,Dezembro
+780,2024-06-03,Cliente_171,Curitiba,"Monitor 27""",Monitores,1,1867.0,Boleto,1867.0,2024,Junho
+781,2024-12-16,Cliente_41,São Paulo,"Monitor 24""",Monitores,3,1461.0,Crédito,4383.0,2024,Dezembro
+782,2024-11-03,Cliente_77,Curitiba,Mouse Gamer,Acessórios,4,753.0,Pix,3012.0,2024,Novembro
+783,2024-03-02,Cliente_29,Curitiba,Notebook Dell,Notebooks,2,6986.0,Boleto,13972.0,2024,Março
+784,2024-10-16,Cliente_71,Goiânia,Teclado Mecânico,Acessórios,1,271.0,Crédito,271.0,2024,Outubro
+785,2024-01-22,Cliente_11,Goiânia,"Monitor 24""",Monitores,2,818.0,Boleto,1636.0,2024,Janeiro
+786,2024-06-26,Cliente_198,Rio de Janeiro,Impressora HP,Periféricos,2,1160.0,Débito,2320.0,2024,Junho
+787,2024-09-29,Cliente_176,Goiânia,iPhone 14,Celulares,4,2374.0,Pix,9496.0,2024,Setembro
+788,2024-08-07,Cliente_166,Belo Horizonte,Notebook Dell,Notebooks,1,4456.0,Crédito,4456.0,2024,Agosto
+789,2024-12-04,Cliente_82,Brasília,iPhone 14,Celulares,4,2953.0,Pix,11812.0,2024,Dezembro
+790,2024-07-08,Cliente_177,Recife,"Monitor 27""",Monitores,2,843.0,Pix,1686.0,2024,Julho
+791,2024-02-05,Cliente_125,Porto Alegre,iPhone 14,Celulares,3,2161.0,Pix,6483.0,2024,Fevereiro
+792,2024-09-16,Cliente_146,Belo Horizonte,Headset Gamer,Acessórios,4,294.0,Pix,1176.0,2024,Setembro
+793,2024-11-27,Cliente_154,Brasília,Teclado Mecânico,Acessórios,4,381.0,Débito,1524.0,2024,Novembro
+794,2024-06-23,Cliente_116,Salvador,Notebook Lenovo,Notebooks,5,3634.0,Pix,18170.0,2024,Junho
+795,2024-01-07,Cliente_1,Brasília,Headset Gamer,Acessórios,3,564.0,Boleto,1692.0,2024,Janeiro
+796,2024-08-03,Cliente_94,Goiânia,iPhone 14,Celulares,1,4538.0,Não informado,4538.0,2024,Agosto
+797,2024-09-07,Cliente_138,Recife,Teclado Mecânico,Acessórios,1,774.0,Débito,774.0,2024,Setembro
+798,2024-02-24,Cliente_40,Goiânia,Headset Gamer,Acessórios,4,664.0,Pix,2656.0,2024,Fevereiro
+799,2024-08-09,Cliente_83,Rio de Janeiro,Teclado Mecânico,Acessórios,4,756.0,Crédito,3024.0,2024,Agosto
+800,2024-07-04,Cliente_34,Belo Horizonte,Headset Gamer,Acessórios,1,144.0,Crédito,144.0,2024,Julho
+801,2024-11-21,Cliente_50,Rio de Janeiro,Samsung Galaxy S23,Celulares,1,3988.0,Crédito,3988.0,2024,Novembro
+802,2024-08-23,Cliente_135,Goiânia,Impressora HP,Periféricos,4,1403.0,Pix,5612.0,2024,Agosto
+803,2024-12-28,Cliente_156,Rio de Janeiro,Notebook Dell,Notebooks,3,3904.0,Crédito,11712.0,2024,Dezembro
+804,2024-03-19,Cliente_120,São Paulo,Samsung Galaxy S23,Celulares,4,3660.0,Pix,14640.0,2024,Março
+805,2024-08-10,Cliente_182,São Paulo,Headset Gamer,Acessórios,4,477.0,Pix,1908.0,2024,Agosto
+806,2024-03-31,Cliente_78,Rio de Janeiro,Headset Gamer,Acessórios,1,172.0,Débito,172.0,2024,Março
+807,2024-09-24,Cliente_186,Curitiba,Headset Gamer,Acessórios,1,203.0,Boleto,203.0,2024,Setembro
+808,2024-11-29,Cliente_169,Curitiba,Samsung Galaxy S23,Celulares,2,4155.0,Débito,8310.0,2024,Novembro
+809,2024-05-18,Cliente_192,Rio de Janeiro,Headset Gamer,Acessórios,5,525.0,Pix,2625.0,2024,Maio
+810,2024-11-11,Cliente_43,Belo Horizonte,"Monitor 27""",Monitores,4,1013.0,Boleto,4052.0,2024,Novembro
+811,2024-10-02,Cliente_41,Brasília,Headset Gamer,Acessórios,3,773.0,Boleto,2319.0,2024,Outubro
+812,2024-09-04,Não informado,Fortaleza,Teclado Mecânico,Acessórios,3,663.0,Boleto,1989.0,2024,Setembro
+813,2024-08-26,Cliente_145,Não informado,"Monitor 24""",Monitores,3,1292.0,Débito,3876.0,2024,Agosto
+814,2024-08-11,Cliente_93,Porto Alegre,"Monitor 24""",Monitores,5,1320.0,Boleto,6600.0,2024,Agosto
+815,2024-10-30,Cliente_73,Goiânia,"Monitor 24""",Monitores,1,870.0,Crédito,870.0,2024,Outubro
+816,2024-05-17,Cliente_2,Salvador,Headset Gamer,Acessórios,2,409.0,Débito,818.0,2024,Maio
+817,2024-06-14,Cliente_198,Salvador,Samsung Galaxy S23,Celulares,3,2088.0,Débito,6264.0,2024,Junho
+818,2024-05-05,Cliente_92,Belo Horizonte,Notebook Lenovo,Notebooks,1,4885.0,Débito,4885.0,2024,Maio
+820,2024-05-22,Cliente_103,Goiânia,Mouse Gamer,Acessórios,1,684.0,Débito,684.0,2024,Maio
+821,2024-08-18,Cliente_124,Belo Horizonte,Notebook Lenovo,Notebooks,3,6247.0,Boleto,18741.0,2024,Agosto
+823,2024-08-25,Cliente_198,Fortaleza,Notebook Lenovo,Notebooks,1,6775.0,Não informado,6775.0,2024,Agosto
+824,2024-10-18,Cliente_198,Curitiba,"Monitor 24""",Monitores,4,1046.0,Crédito,4184.0,2024,Outubro
+825,2024-11-08,Cliente_135,São Paulo,"Monitor 24""",Monitores,1,1424.0,Pix,1424.0,2024,Novembro
+826,2024-12-08,Cliente_84,Brasília,Headset Gamer,Acessórios,5,253.0,Débito,1265.0,2024,Dezembro
+827,2024-07-13,Cliente_188,Recife,iPhone 14,Celulares,1,4759.0,Boleto,4759.0,2024,Julho
+828,2024-06-21,Cliente_24,Curitiba,Impressora HP,Periféricos,5,1433.0,Boleto,7165.0,2024,Junho
+829,2024-01-15,Cliente_34,Fortaleza,Mouse Gamer,Acessórios,4,251.0,Crédito,1004.0,2024,Janeiro
+830,2024-09-10,Cliente_141,Recife,"Monitor 27""",Monitores,5,900.0,Pix,4500.0,2024,Setembro
+831,2024-06-15,Cliente_112,Belo Horizonte,Notebook Lenovo,Notebooks,4,5055.0,Débito,20220.0,2024,Junho
+832,2024-04-03,Cliente_125,Recife,"Monitor 27""",Monitores,5,1205.0,Débito,6025.0,2024,Abril
+833,2024-09-06,Cliente_64,Curitiba,Headset Gamer,Acessórios,5,636.0,Crédito,3180.0,2024,Setembro
+834,2024-04-18,Cliente_176,Goiânia,Mouse Gamer,Acessórios,4,449.5,Crédito,1798.0,2024,Abril
+835,2024-06-30,Cliente_94,Fortaleza,Notebook Lenovo,Notebooks,4,4734.0,Débito,18936.0,2024,Junho
+836,2024-05-12,Cliente_168,São Paulo,Teclado Mecânico,Acessórios,3,708.0,Pix,2124.0,2024,Maio
+837,2024-06-23,Cliente_114,Goiânia,iPhone 14,Celulares,3,4524.0,Débito,13572.0,2024,Junho
+838,2024-05-23,Cliente_52,Fortaleza,"Monitor 27""",Monitores,1,1278.0,Débito,1278.0,2024,Maio
+839,2024-11-01,Cliente_14,Curitiba,Notebook Lenovo,Notebooks,1,6029.0,Débito,6029.0,2024,Novembro
+840,2024-12-25,Cliente_178,Rio de Janeiro,Mouse Gamer,Acessórios,1,451.0,Pix,451.0,2024,Dezembro
+841,2024-05-21,Cliente_85,Curitiba,"Monitor 27""",Monitores,4,846.0,Débito,3384.0,2024,Maio
+842,2024-10-11,Cliente_193,Salvador,Samsung Galaxy S23,Celulares,5,4143.0,Boleto,20715.0,2024,Outubro
+843,2024-01-06,Cliente_97,Goiânia,Impressora HP,Periféricos,2,437.0,Crédito,874.0,2024,Janeiro
+844,2024-09-21,Cliente_73,Curitiba,Mouse Gamer,Acessórios,2,161.0,Pix,322.0,2024,Setembro
+845,2024-04-07,Cliente_3,Rio de Janeiro,Notebook Dell,Notebooks,4,5681.0,Boleto,22724.0,2024,Abril
+846,2024-02-13,Cliente_5,Salvador,Mouse Gamer,Acessórios,3,210.0,Boleto,630.0,2024,Fevereiro
+847,2024-05-03,Cliente_182,Rio de Janeiro,Samsung Galaxy S23,Celulares,4,4082.0,Pix,16328.0,2024,Maio
+848,2024-07-27,Cliente_23,Belo Horizonte,"Monitor 27""",Monitores,5,1888.0,Débito,9440.0,2024,Julho
+849,2024-09-07,Cliente_183,São Paulo,Headset Gamer,Acessórios,4,674.0,Crédito,2696.0,2024,Setembro
+850,2024-10-11,Cliente_86,Porto Alegre,Samsung Galaxy S23,Celulares,5,3248.0,Boleto,16240.0,2024,Outubro
+851,2024-05-03,Cliente_176,Fortaleza,iPhone 14,Celulares,1,3420.0,Pix,3420.0,2024,Maio
+852,2024-12-19,Cliente_71,São Paulo,Mouse Gamer,Acessórios,2,613.0,Pix,1226.0,2024,Dezembro
+853,2024-08-31,Cliente_72,Curitiba,"Monitor 24""",Monitores,1,1936.0,Débito,1936.0,2024,Agosto
+854,2024-11-26,Cliente_36,Rio de Janeiro,Teclado Mecânico,Acessórios,4,772.0,Boleto,3088.0,2024,Novembro
+855,2024-12-30,Cliente_176,Curitiba,Headset Gamer,Acessórios,5,740.0,Boleto,3700.0,2024,Dezembro
+856,2024-09-08,Cliente_110,Não informado,Samsung Galaxy S23,Celulares,5,2625.0,Pix,13125.0,2024,Setembro
+857,2024-08-17,Cliente_53,Belo Horizonte,"Monitor 27""",Monitores,5,1069.0,Débito,5345.0,2024,Agosto
+858,2024-01-09,Cliente_181,Não informado,iPhone 14,Celulares,3,4820.0,Débito,14460.0,2024,Janeiro
+859,2024-02-17,Cliente_41,Fortaleza,"Monitor 24""",Monitores,2,1956.0,Crédito,3912.0,2024,Fevereiro
+860,2024-05-30,Não informado,Fortaleza,Headset Gamer,Acessórios,5,221.0,Débito,1105.0,2024,Maio
+861,2024-04-23,Cliente_106,Recife,Notebook Dell,Notebooks,3,6605.0,Não informado,19815.0,2024,Abril
+862,2024-07-26,Cliente_200,Não informado,"Monitor 27""",Monitores,3,1111.0,Crédito,3333.0,2024,Julho
+863,2024-12-20,Cliente_196,Goiânia,iPhone 14,Celulares,2,2107.0,Pix,4214.0,2024,Dezembro
+864,2024-05-04,Cliente_153,Curitiba,Impressora HP,Periféricos,5,872.0,Débito,4360.0,2024,Maio
+865,2024-06-05,Cliente_177,Porto Alegre,Notebook Dell,Notebooks,3,3325.0,Não informado,9975.0,2024,Junho
+866,2024-12-05,Cliente_183,Fortaleza,Headset Gamer,Acessórios,5,580.0,Débito,2900.0,2024,Dezembro
+867,2024-10-24,Cliente_36,Belo Horizonte,"Monitor 24""",Monitores,4,1770.0,Débito,7080.0,2024,Outubro
+868,2024-07-07,Cliente_196,São Paulo,Samsung Galaxy S23,Celulares,1,3673.0,Pix,3673.0,2024,Julho
+869,2024-08-30,Cliente_194,Curitiba,"Monitor 24""",Monitores,2,1215.0,Crédito,2430.0,2024,Agosto
+870,2024-10-10,Cliente_126,Fortaleza,iPhone 14,Celulares,4,4527.0,Boleto,18108.0,2024,Outubro
+871,2024-09-28,Cliente_199,Não informado,Samsung Galaxy S23,Celulares,4,3658.0,Boleto,14632.0,2024,Setembro
+872,2024-06-25,Cliente_191,Goiânia,Teclado Mecânico,Acessórios,4,726.0,Crédito,2904.0,2024,Junho
+873,2024-08-05,Cliente_117,São Paulo,Headset Gamer,Acessórios,1,562.0,Débito,562.0,2024,Agosto
+874,2024-10-08,Cliente_189,São Paulo,Headset Gamer,Acessórios,5,505.0,Boleto,2525.0,2024,Outubro
+875,2024-06-18,Cliente_75,Porto Alegre,Headset Gamer,Acessórios,1,294.0,Boleto,294.0,2024,Junho
+876,2024-06-29,Cliente_43,Recife,Mouse Gamer,Acessórios,3,572.0,Pix,1716.0,2024,Junho
+877,2024-12-25,Cliente_37,Porto Alegre,Impressora HP,Periféricos,1,1458.0,Boleto,1458.0,2024,Dezembro
+878,2024-08-20,Cliente_47,Goiânia,Notebook Lenovo,Notebooks,5,3463.0,Débito,17315.0,2024,Agosto
+879,2024-05-18,Cliente_116,São Paulo,"Monitor 24""",Monitores,4,1462.0,Débito,5848.0,2024,Maio
+880,2024-06-05,Cliente_117,Rio de Janeiro,"Monitor 27""",Monitores,5,1213.0,Pix,6065.0,2024,Junho
+881,2024-05-08,Cliente_24,Rio de Janeiro,Teclado Mecânico,Acessórios,2,226.0,Boleto,452.0,2024,Maio
+882,2024-04-28,Cliente_182,Recife,Teclado Mecânico,Acessórios,1,636.0,Débito,636.0,2024,Abril
+883,2024-03-02,Cliente_12,Belo Horizonte,"Monitor 24""",Monitores,5,1579.0,Pix,7895.0,2024,Março
+884,2024-04-08,Não informado,Belo Horizonte,Impressora HP,Periféricos,2,732.0,Crédito,1464.0,2024,Abril
+885,2024-06-10,Cliente_187,Porto Alegre,"Monitor 24""",Monitores,3,1433.0,Pix,4299.0,2024,Junho
+886,2024-03-02,Cliente_52,São Paulo,iPhone 14,Celulares,1,2538.0,Pix,2538.0,2024,Março
+887,2024-10-01,Cliente_128,Brasília,Notebook Dell,Notebooks,4,5038.0,Crédito,20152.0,2024,Outubro
+888,2024-12-19,Cliente_56,Goiânia,Impressora HP,Periféricos,4,887.0,Boleto,3548.0,2024,Dezembro
+889,2024-04-04,Cliente_21,Goiânia,"Monitor 27""",Monitores,4,1704.0,Crédito,6816.0,2024,Abril
+890,2024-04-08,Cliente_159,Brasília,Samsung Galaxy S23,Celulares,5,3139.0,Débito,15695.0,2024,Abril
+891,2024-04-20,Cliente_15,Fortaleza,Notebook Dell,Notebooks,2,3607.0,Crédito,7214.0,2024,Abril
+892,2024-09-04,Cliente_148,Goiânia,iPhone 14,Celulares,1,4732.0,Pix,4732.0,2024,Setembro
+893,2024-05-21,Cliente_28,Recife,Teclado Mecânico,Acessórios,1,150.0,Débito,150.0,2024,Maio
+894,2024-10-28,Cliente_170,Goiânia,iPhone 14,Celulares,3,4503.0,Débito,13509.0,2024,Outubro
+895,2024-09-25,Cliente_10,Rio de Janeiro,"Monitor 27""",Monitores,5,1537.0,Pix,7685.0,2024,Setembro
+896,2024-11-01,Cliente_18,Recife,Teclado Mecânico,Acessórios,3,488.0,Crédito,1464.0,2024,Novembro
+897,2024-05-24,Cliente_32,Salvador,Mouse Gamer,Acessórios,4,237.0,Pix,948.0,2024,Maio
+898,2024-02-21,Cliente_54,Curitiba,Headset Gamer,Acessórios,4,637.0,Crédito,2548.0,2024,Fevereiro
+899,2024-04-09,Cliente_162,Brasília,Notebook Lenovo,Notebooks,5,5988.0,Crédito,29940.0,2024,Abril
+900,2024-05-31,Não informado,Goiânia,"Monitor 27""",Monitores,5,1388.0,Pix,6940.0,2024,Maio
+901,2024-04-26,Cliente_160,Fortaleza,Mouse Gamer,Acessórios,5,688.0,Débito,3440.0,2024,Abril
+902,2024-07-03,Cliente_134,Porto Alegre,Impressora HP,Periféricos,5,1416.0,Boleto,7080.0,2024,Julho
+903,2024-04-01,Não informado,Salvador,iPhone 14,Celulares,5,2953.0,Débito,14765.0,2024,Abril
+904,2024-06-03,Cliente_120,Rio de Janeiro,Notebook Dell,Notebooks,1,3098.0,Débito,3098.0,2024,Junho
+906,2024-12-28,Cliente_164,Curitiba,Headset Gamer,Acessórios,2,111.0,Pix,222.0,2024,Dezembro
+907,2024-09-30,Cliente_77,Brasília,Mouse Gamer,Acessórios,1,415.0,Pix,415.0,2024,Setembro
+908,2024-03-05,Cliente_86,Fortaleza,Notebook Dell,Notebooks,1,5809.0,Boleto,5809.0,2024,Março
+909,2024-05-20,Cliente_45,Curitiba,Impressora HP,Periféricos,5,459.0,Pix,2295.0,2024,Maio
+910,2024-01-24,Cliente_10,Belo Horizonte,Teclado Mecânico,Acessórios,4,585.0,Boleto,2340.0,2024,Janeiro
+911,2024-01-28,Cliente_86,Porto Alegre,iPhone 14,Celulares,4,4199.0,Boleto,16796.0,2024,Janeiro
+912,2024-10-10,Cliente_145,Fortaleza,Notebook Dell,Notebooks,5,4226.0,Crédito,21130.0,2024,Outubro
+913,2024-05-29,Cliente_85,Fortaleza,Samsung Galaxy S23,Celulares,5,4807.0,Crédito,24035.0,2024,Maio
+914,2024-12-23,Cliente_87,Recife,iPhone 14,Celulares,3,2127.0,Débito,6381.0,2024,Dezembro
+915,2024-03-05,Cliente_48,Goiânia,Impressora HP,Periféricos,5,1197.0,Crédito,5985.0,2024,Março
+916,2024-11-22,Cliente_70,Recife,Mouse Gamer,Acessórios,3,132.0,Crédito,396.0,2024,Novembro
+917,2024-09-08,Cliente_116,Salvador,"Monitor 27""",Monitores,2,1561.0,Débito,3122.0,2024,Setembro
+918,2024-02-22,Cliente_29,Fortaleza,Headset Gamer,Acessórios,3,279.0,Crédito,837.0,2024,Fevereiro
+919,2024-01-07,Cliente_130,São Paulo,Samsung Galaxy S23,Celulares,1,3660.0,Boleto,3660.0,2024,Janeiro
+920,2024-10-20,Cliente_88,Porto Alegre,Headset Gamer,Acessórios,2,294.0,Pix,588.0,2024,Outubro
+921,2024-05-25,Cliente_133,Belo Horizonte,Teclado Mecânico,Acessórios,2,200.0,Débito,400.0,2024,Maio
+922,2024-08-28,Cliente_183,Brasília,Notebook Dell,Notebooks,4,4587.0,Crédito,18348.0,2024,Agosto
+924,2024-08-13,Cliente_27,Brasília,Teclado Mecânico,Acessórios,4,147.0,Pix,588.0,2024,Agosto
+925,2024-06-23,Cliente_80,Não informado,Notebook Dell,Notebooks,5,6106.0,Pix,30530.0,2024,Junho
+926,2024-04-04,Cliente_71,Brasília,Samsung Galaxy S23,Celulares,2,3173.0,Pix,6346.0,2024,Abril
+927,2024-01-27,Cliente_39,Belo Horizonte,"Monitor 27""",Monitores,1,1358.0,Pix,1358.0,2024,Janeiro
+928,2024-05-09,Cliente_160,Brasília,Notebook Lenovo,Notebooks,1,6925.0,Crédito,6925.0,2024,Maio
+929,2024-09-01,Cliente_141,Fortaleza,Samsung Galaxy S23,Celulares,5,3434.0,Pix,17170.0,2024,Setembro
+930,2024-02-28,Cliente_63,Belo Horizonte,iPhone 14,Celulares,3,4351.0,Crédito,13053.0,2024,Fevereiro
+931,2024-02-03,Cliente_139,Porto Alegre,Mouse Gamer,Acessórios,5,446.0,Crédito,2230.0,2024,Fevereiro
+932,2024-07-24,Cliente_173,São Paulo,iPhone 14,Celulares,1,3928.0,Crédito,3928.0,2024,Julho
+933,2024-09-08,Cliente_110,Recife,"Monitor 24""",Monitores,1,976.0,Débito,976.0,2024,Setembro
+934,2024-02-07,Cliente_158,Fortaleza,Impressora HP,Periféricos,5,1313.0,Pix,6565.0,2024,Fevereiro
+935,2024-10-22,Cliente_137,Rio de Janeiro,Teclado Mecânico,Acessórios,2,786.0,Boleto,1572.0,2024,Outubro
+936,2024-11-18,Cliente_179,Porto Alegre,Impressora HP,Periféricos,2,590.0,Crédito,1180.0,2024,Novembro
+937,2024-12-17,Cliente_121,Curitiba,"Monitor 27""",Monitores,3,1753.0,Débito,5259.0,2024,Dezembro
+938,2024-01-28,Cliente_94,Recife,iPhone 14,Celulares,5,3056.0,Débito,15280.0,2024,Janeiro
+939,2024-03-18,Não informado,São Paulo,Teclado Mecânico,Acessórios,3,564.0,Não informado,1692.0,2024,Março
+940,2024-03-17,Cliente_123,Porto Alegre,"Monitor 27""",Monitores,1,1519.0,Débito,1519.0,2024,Março
+941,2024-10-15,Cliente_148,Belo Horizonte,Mouse Gamer,Acessórios,3,718.0,Crédito,2154.0,2024,Outubro
+942,2024-06-04,Cliente_143,Rio de Janeiro,"Monitor 24""",Monitores,1,1467.0,Pix,1467.0,2024,Junho
+943,2024-02-13,Cliente_152,Recife,Headset Gamer,Acessórios,4,510.0,Débito,2040.0,2024,Fevereiro
+944,2024-05-07,Cliente_124,Recife,Impressora HP,Periféricos,2,725.0,Crédito,1450.0,2024,Maio
+945,2024-03-01,Cliente_111,Recife,Teclado Mecânico,Acessórios,2,705.0,Pix,1410.0,2024,Março
+946,2024-10-12,Cliente_170,Rio de Janeiro,Headset Gamer,Acessórios,2,277.0,Boleto,554.0,2024,Outubro
+947,2024-08-01,Cliente_119,Fortaleza,Notebook Lenovo,Notebooks,5,5441.0,Crédito,27205.0,2024,Agosto
+948,2024-11-06,Não informado,Rio de Janeiro,"Monitor 27""",Monitores,2,1430.0,Crédito,2860.0,2024,Novembro
+949,2024-11-01,Cliente_127,São Paulo,Impressora HP,Periféricos,4,1070.0,Crédito,4280.0,2024,Novembro
+950,2024-11-12,Cliente_194,São Paulo,Samsung Galaxy S23,Celulares,2,4378.0,Débito,8756.0,2024,Novembro
+951,2024-04-25,Cliente_75,Recife,iPhone 14,Celulares,4,4176.0,Boleto,16704.0,2024,Abril
+952,2024-09-24,Cliente_82,Salvador,Samsung Galaxy S23,Celulares,2,4791.0,Pix,9582.0,2024,Setembro
+953,2024-07-13,Cliente_150,São Paulo,"Monitor 24""",Monitores,3,982.0,Boleto,2946.0,2024,Julho
+954,2024-08-18,Cliente_95,Brasília,iPhone 14,Celulares,3,2255.0,Crédito,6765.0,2024,Agosto
+955,2024-08-14,Cliente_92,Rio de Janeiro,Notebook Dell,Notebooks,5,6361.0,Pix,31805.0,2024,Agosto
+956,2024-06-01,Cliente_180,Goiânia,Notebook Dell,Notebooks,2,4768.0,Boleto,9536.0,2024,Junho
+957,2024-10-28,Cliente_98,Recife,Teclado Mecânico,Acessórios,4,515.0,Débito,2060.0,2024,Outubro
+958,2024-08-07,Cliente_49,Brasília,iPhone 14,Celulares,4,2569.0,Boleto,10276.0,2024,Agosto
+959,2024-06-05,Cliente_74,Belo Horizonte,Teclado Mecânico,Acessórios,4,257.0,Débito,1028.0,2024,Junho
+960,2024-10-18,Cliente_5,Belo Horizonte,Notebook Dell,Notebooks,1,5655.0,Boleto,5655.0,2024,Outubro
+961,2024-11-13,Cliente_36,Recife,"Monitor 24""",Monitores,2,973.0,Boleto,1946.0,2024,Novembro
+962,2024-01-31,Cliente_117,Brasília,Impressora HP,Periféricos,4,768.0,Boleto,3072.0,2024,Janeiro
+963,2024-11-08,Cliente_91,Curitiba,Headset Gamer,Acessórios,4,493.0,Débito,1972.0,2024,Novembro
+964,2024-02-20,Cliente_148,Porto Alegre,"Monitor 24""",Monitores,5,815.0,Débito,4075.0,2024,Fevereiro
+965,2024-04-16,Cliente_140,Goiânia,Headset Gamer,Acessórios,3,520.0,Não informado,1560.0,2024,Abril
+966,2024-11-16,Cliente_124,Fortaleza,Notebook Dell,Notebooks,1,5327.0,Crédito,5327.0,2024,Novembro
+967,2024-04-18,Cliente_37,Brasília,Impressora HP,Periféricos,4,563.0,Pix,2252.0,2024,Abril
+968,2024-05-15,Cliente_134,Não informado,"Monitor 27""",Monitores,5,960.0,Crédito,4800.0,2024,Maio
+969,2024-12-04,Cliente_190,Rio de Janeiro,Samsung Galaxy S23,Celulares,4,4583.0,Pix,18332.0,2024,Dezembro
+970,2024-02-11,Cliente_137,São Paulo,Impressora HP,Periféricos,1,1103.0,Boleto,1103.0,2024,Fevereiro
+971,2024-03-21,Cliente_147,Fortaleza,"Monitor 27""",Monitores,5,1760.0,Boleto,8800.0,2024,Março
+972,2024-05-02,Cliente_43,São Paulo,Teclado Mecânico,Acessórios,3,518.0,Pix,1554.0,2024,Maio
+973,2024-03-29,Cliente_162,Porto Alegre,Impressora HP,Periféricos,3,525.0,Débito,1575.0,2024,Março
+974,2024-10-09,Não informado,Goiânia,Impressora HP,Periféricos,1,997.0,Crédito,997.0,2024,Outubro
+975,2024-02-08,Cliente_33,Brasília,Mouse Gamer,Acessórios,4,184.0,Crédito,736.0,2024,Fevereiro
+976,2024-03-21,Cliente_158,Salvador,Mouse Gamer,Acessórios,3,235.0,Pix,705.0,2024,Março
+977,2024-01-02,Cliente_155,Belo Horizonte,Mouse Gamer,Acessórios,1,214.0,Débito,214.0,2024,Janeiro
+978,2024-07-28,Cliente_67,Curitiba,"Monitor 27""",Monitores,3,1159.0,Boleto,3477.0,2024,Julho
+979,2024-08-18,Cliente_88,Rio de Janeiro,iPhone 14,Celulares,5,2135.0,Débito,10675.0,2024,Agosto
+980,2024-12-18,Cliente_193,Recife,Impressora HP,Periféricos,2,1415.0,Boleto,2830.0,2024,Dezembro
+981,2024-10-31,Cliente_164,Belo Horizonte,Samsung Galaxy S23,Celulares,4,4973.0,Débito,19892.0,2024,Outubro
+982,2024-08-28,Cliente_165,Salvador,Impressora HP,Periféricos,3,511.0,Crédito,1533.0,2024,Agosto
+983,2024-05-29,Cliente_103,Porto Alegre,Notebook Dell,Notebooks,2,4900.0,Pix,9800.0,2024,Maio
+984,2024-01-17,Cliente_98,Não informado,"Monitor 27""",Monitores,5,1278.0,Não informado,6390.0,2024,Janeiro
+986,2024-05-27,Cliente_136,São Paulo,"Monitor 27""",Monitores,4,1446.0,Crédito,5784.0,2024,Maio
+987,2024-12-27,Não informado,Salvador,Headset Gamer,Acessórios,3,542.0,Pix,1626.0,2024,Dezembro
+988,2024-05-24,Cliente_66,Goiânia,Mouse Gamer,Acessórios,3,200.0,Boleto,600.0,2024,Maio
+989,2024-12-25,Cliente_134,Fortaleza,"Monitor 27""",Monitores,2,1199.0,Débito,2398.0,2024,Dezembro
+990,2024-08-20,Cliente_173,São Paulo,Teclado Mecânico,Acessórios,5,110.0,Crédito,550.0,2024,Agosto
+992,2024-12-17,Cliente_65,Curitiba,Teclado Mecânico,Acessórios,2,390.0,Crédito,780.0,2024,Dezembro
+993,2024-04-29,Cliente_15,Goiânia,Notebook Dell,Notebooks,5,3376.0,Débito,16880.0,2024,Abril
+994,2024-05-15,Cliente_23,Goiânia,Impressora HP,Periféricos,1,645.0,Não informado,645.0,2024,Maio
+995,2024-11-16,Cliente_29,Belo Horizonte,"Monitor 24""",Monitores,5,1178.0,Pix,5890.0,2024,Novembro
+996,2024-10-28,Cliente_20,Porto Alegre,Mouse Gamer,Acessórios,4,776.0,Pix,3104.0,2024,Outubro
+997,2024-12-04,Cliente_42,Rio de Janeiro,"Monitor 24""",Monitores,3,1327.0,Pix,3981.0,2024,Dezembro
+998,2024-04-11,Cliente_86,São Paulo,Notebook Dell,Notebooks,4,4591.0,Pix,18364.0,2024,Abril
+999,2024-08-05,Cliente_18,Porto Alegre,Mouse Gamer,Acessórios,2,551.0,Débito,1102.0,2024,Agosto
+1000,2024-02-28,Cliente_166,Porto Alegre,Impressora HP,Periféricos,4,765.0,Crédito,3060.0,2024,Fevereiro
